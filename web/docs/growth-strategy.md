@@ -1,3 +1,5 @@
+> Account audit update, 21 September: Instagram owner Insights are now available. Its 97,029,594 views include ads; organic share is unknown. Instagram has 107,120 followers and Facebook displays 213K. X has 8 followers. The verified account snapshot in the application supersedes earlier discovery-stage access notes below.
+
 # SpeakX Organic Growth OS — strategy research
 
 Research date: 2026-09-21. Execution scope: **October1–30,2026**. All strategy recommendations are proposals; all account figures are identified observations.

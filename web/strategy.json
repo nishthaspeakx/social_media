@@ -1343,7 +1343,7 @@
   },
   "accountAudit": {
     "observedAt": "2026-09-21",
-    "source": "Parent agent direct Chrome inspection, public X profile; private analytics not accessed",
+    "source": "Direct Chrome inspection on 2026-09-21: public X and Facebook profiles, Instagram owner Insights; official website channel links.",
     "x": {
       "url": "https://x.com/SpeakxOnX/",
       "posts": 54,
@@ -1353,8 +1353,8 @@
       "bioObserved": "English is not broken, it is unused; SIA AI partner;10minutes/day",
       "sample": "Five public posts inspected, including pinned Sep5 with32views, Sep21 with2views, Sep19 examples with4and3views. Different ages and tiny sample: no performance ranking or account reach inference."
     },
-    "otherAccounts": "Generic links do not identify target accounts. Signed-in personal/unrelated surfaces are not SpeakX owner analytics; do not modify them.",
-    "analytics": "Login/owner-context connection or native export required; user authorization to read exists but access is not yet established."
+    "otherAccounts": "Instagram @speakx_ai and Facebook /speakxai confirmed by owner and inspected. YouTube @speakx_ai is linked from the official website.",
+    "analytics": "Instagram last-30-days owner Insights accessed; totals include ads, organic share unknown. Detailed evidence is in verifiedAccountSnapshot. Other private channel analytics and recurring API ingestion are not connected."
   },
   "organicOnly": "No ad spend, retargeting activation, promoted posts or paid-audience budget. Historical paid data, if present, is separated from organic analysis.",
   "metricDictionary": [
