@@ -30,3 +30,11 @@ Validate text using X's weighted character counting, not JavaScript string lengt
 ## Release evidence required
 
 For each platform attach: account owner, account type, granted scopes, app review status, API version, token health, media capability fixture, real test-post ID, successful metrics response, unsupported metric list, rate-limit handling test and revocation recovery test. No social tokens belong in browser storage or the prototype. Request advanced access only where the app's use and account ownership require it.
+
+## September21 Growth OS provider update
+
+[Kie Infinitalk](https://docs.kie.ai/market/infinitalk/from-audio): audio-driven presenter task via jobs/createTask. [Task status](https://docs.kie.ai/market/common/get-task-detail) is polled through recordInfo. [File upload](https://docs.kie.ai/file-upload-api/upload-file-base-64) uses Kie's documented upload service; temporary provider URLs must be copied into owned storage. The adapter uses an approved singleSia image and Cartesia audio. It does not guarantee subtitles, multi-scene assembly, identity accuracy or the requested final export resolution. Live contract test is pending credentials.
+
+[Cartesia bytes TTS](https://docs.cartesia.ai/api-reference/tts/bytes): server-authenticated speech synthesis, distinct voiceID and APIversion. No arbitrary voice is substituted for Sia. Hindi/English code switching needs a pronunciation and timing test. Speech and video generation are gated off until credentials and production cap are set.
+
+YouTube Shorts has been added to the30-day campaign. Use separate starts/replays and engaged-view definitions; feed selection rate is not thumbnail CTR. Exact native publishing/analytics permissions and metrics must be verified with the connected account before launch. No legacy31-day counts or X cost estimate should be used for this30-day plan.

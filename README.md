@@ -1,15 +1,12 @@
-# SpeakX Social Studio — October 2026
+# SpeakX Organic Growth OS
 
-Deliverable: complete operating plan + interactive browser-local prototype. Not a production automation deployment.
+30-day operating plan and private manager application, October1–30,2026. Organic-only. The application provides planning, immutable versions, strategy, production prompts, map pins, analytics imports, retention diagnosis, reviews and experiments. Provider adapters are gated pending keys/voiceID/reference validation. Automated publishing, media finishing and unattended job execution remain integration work; this is not yet a fully autonomous live publisher.
 
-Start: `python3 -m http.server 4317 --directory dist` then open http://localhost:4317.
+- `web/`: authored frontend/assets/documents
+- `server/worker.js`: authenticated workspace/version/job API
+- `db/schema.ts`, `drizzle/`:D1schema and generated migrations
+- `data/october.json`:30 detailed production packages
+- `data/strategy.json`:strategy and research
+- `docs/growth-implementation.md`:complete capability and connection handoff
 
-- dist/index.html, style.css, app.js: manager UI
-- data/october.json: canonical 31-day draft lesson plan
-- data/map-catalog.json: 15 supplied India maps imported through Chrome/Drive
-- docs/october-content.md: full content cards
-- docs/automation-blueprint.md: production architecture, agent contracts, rollout
-- docs/api-notes.md: verified API notes and explicit verification blockers
-- docs/manager-guide.md: workflow, decisions and delivery boundaries
-
-The prototype uses browser localStorage only. No tokens, generated media, production approvals, live posts or real analytics are included. All generated lesson captions/scripts require final human editorial and media review. UI role selection is not authentication.
+`npm run build` then `npm run dev` opens a localhost4317 preview with localD1/R2. `npm test` runs workflow and metric checks. Configure secrets only in runtime environment. Do not enable paid generation before provider contract,voice and budget checks. The private hosted site is the existing SpeakX studio URL.

@@ -1,3 +1,5 @@
+> Current scope: October 1–30 only. See Growth Implementation for the exact shipped features and remaining integration work. This document is the complete operating specification.
+
 # Sia Sikhaati Hai — a page people want to return to
 
 ## The decision: maps support the story, Sia leads it
@@ -8,7 +10,7 @@ Studio episodes deliver clarity: a sentence correction, one word, a choice, a mi
 
 ## Three recurring formats
 
-### 1. Sia, fix my sentence — 20 studio episodes
+### 1. Sia, fix my sentence — 19 studio episodes
 
 Open on Sia looking into the lens. Put a short problem on screen immediately, such as “Where you are going? ❌”. She invites a prediction, fixes one thing, explains why in plain Hinglish, and leaves room to repeat it. No maps. The consistent pale-blue set becomes the familiar learning space.
 
@@ -32,7 +34,7 @@ The map becomes an occasional recognizable transition, not a repetitive opening.
 - October 5–11: Ask without freezing. Confidence vocabulary, small grammar wins and a reception request lead into a three-question self-check.
 - October 12–18: Interview-ready language. Describe a strength, ask for repetition, add a reason and complete a rehearsal.
 - October 19–25: Speak at work. Availability, questions, time to think and deadlines become practical office phrases.
-- October 26–31: Sound more natural. Flexibility, past forms, agreement and polite disagreement lead to the month-end challenge.
+- October 26–30: Sound more natural. Flexibility, past forms, agreement and polite disagreement lead to the month-end challenge.
 
 Each video is useful on its own. The series adds continuity without requiring viewers to watch yesterday's post before understanding today's.
 

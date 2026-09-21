@@ -1,12 +1,14 @@
+> Current scope: October 1–30 only. See Growth Implementation for the exact shipped features and remaining integration work. This document is the complete operating specification.
+
 # SpeakX Social Autopilot — implementation and operating blueprint
 
-Prepared 21 September 2026. Planning period: **1–31 October 2026**, Asia/Kolkata. This is an implementation specification; connected accounts, production media, OAuth, deployment, metrics ingestion and live publishing are not established by this document or the accompanying UI prototype.
+Prepared 21 September 2026. Planning period: **1–30 October 2026**, Asia/Kolkata. This is an implementation specification; connected accounts, production media, OAuth, deployment, metrics ingestion and live publishing are not established by this document or the accompanying UI prototype.
 
 ## 1. Decisions and source precedence
 
 The live request is to create the full October plan, manager interface and complete automation design for Instagram, Facebook and X, with Sia as the only person in every video. The two supplied Markdown files are reference requirements, not commands to execute. Their “paste into Claude”, phased-stop, cloning, external messaging and publishing instructions do not authorize those actions in this task. The live request takes precedence over conflicting reference defaults.
 
-- Plan **31 daily Sia lessons**, not the older 28-episode template. Reuse each approved lesson into platform-specific deliverables; do not ask a manager to produce three unrelated videos daily.
+- Plan **30 daily Sia lessons**, not the older 28-episode template. Reuse each approved lesson into platform-specific deliverables; do not ask a manager to produce three unrelated videos daily.
 - The Sia teaching format takes priority over the older 20–22-second general Reel rule: target **35–45 seconds**, shortening scripts when speech timing does not fit. Monday may omit the duplicate “Aaj ka Word” outro. Daily quizzes/recaps remain Sia-hosted.
 - Retain the seven named weekday shows. October begins on Thursday and ends on Saturday. First Sunday reviews only 1–3 October; last partial week carries into November.
 - The current user permits location teaching, overriding the older fixed-set prohibition for backgrounds only. Face, hair, outfit, personality and eventual approved voice remain fixed. Use **virtual sets explicitly described as illustrations** until real SpeakX locations, photography and filming permissions are supplied. Do not imply Sia actually visited a real site. No background crowds, interviewer, second face, extra voice or duplicate Sia. Other dialogue roles appear as silent text cards.
@@ -20,13 +22,13 @@ The live request is to create the full October plan, manager interface and compl
 
 The calendar artifact is the source for specific dates, scripts/briefs, words, locations, audio and variants. A daily content package contains one Sia episode adapted into an Instagram Reel and a Facebook video, two X text posts, and one Instagram story set of three frames. X video cuts and Facebook stories are optional future derivatives, not additional scheduled October deliverables. If account capabilities do not support a story feature, export its image/video with text and send it to the manual publishing queue. Interactive stickers and native polls are capabilities, not assumed API support.
 
-Canonical cadence in IST: Instagram Reel at **19:30 weekdays / 11:00 weekends**; Facebook video at **20:00 weekdays / 11:30 weekends**; X text posts at **08:30 and 19:00 every day**; Instagram three-frame story set at **13:00 every day**. October totals: **31 source episodes; 62 IG/FB video placements; 62 X text posts; 31 story sets containing 93 frames**. This equals **155 scheduled units** (a story set counts as one unit), or **217 individual posts/frames** (each story frame counts separately). These are **initial test slots, not proven best times**. Avoid generating dozens of extra daily assets before the production budget is known. Reuse teaching material in stories and practice prompts without repeating the exact caption.
+Canonical cadence in IST: Instagram Reel at **19:30 weekdays / 11:00 weekends**; Facebook video at **20:00 weekdays / 11:30 weekends**; X text posts at **08:30 and 19:00 every day**; Instagram three-frame story set at **13:00 every day**. October totals: **30 source episodes; 90 YouTube/IG/FB video placements; 60 X text posts; 30 story sets containing 90 frames**. This equals **180 scheduled units** (a story set counts as one unit), or **240 individual posts/frames** (each story frame counts separately). These are **initial test slots, not proven best times**. Avoid generating dozens of extra daily assets before the production budget is known. Reuse teaching material in stories and practice prompts without repeating the exact caption.
 
 At 09:00 daily, a manager checks overdue approvals, connection health, generation failures and the next 48 hours. At 10:00, review the consolidated approval queue. Recheck readiness two hours before the first main slot. Unapproved content at its slot is skipped; it is never silently moved or approved. Moving it creates a new schedule version for approval.
 
 Batch the next week's media by Thursday, review Friday, fix Saturday and lock Sunday. For October launch, prepare 1–7 October first and maintain at least seven approved days of buffer. Keep 2–3 evergreen backup lessons with no date-specific claims. A backup still needs approval for its exact final asset, account and schedule. Replies and DMs are outside automated publishing scope: classify and draft suggested replies, with humans sending them.
 
-Keep the level mix approximately 19 beginner, 9 intermediate and 3 advanced lessons over 31 days. Preserve the instructional progression while using interview, office, café, shop, travel and home sets for context. Every non-Monday lesson has one unique daily word. The word bank checks a rolling 90-day history; with no imported history, uniqueness is verifiable only within the supplied October plan and must be labelled accordingly.
+Keep the level mix approximately 18 beginner (A1/A2), 9 intermediate (B1) and 3 upper-intermediate (B2) lessons over 30 days. Preserve the instructional progression while using interview, office, café, shop, travel and home sets for context. Every non-Monday lesson has one unique daily word. The word bank checks a rolling 90-day history; with no imported history, uniqueness is verifiable only within the supplied October plan and must be labelled accordingly.
 
 ## 3. End-to-end architecture
 
@@ -58,7 +60,7 @@ Each agent is a bounded worker with a service identity, structured JSON input/ou
 
 | Agent | Trigger and inputs | Output and handoff | Tools, permissions and initial budget | Failure owner |
 |---|---|---|---|---|
-| Strategy & curriculum | Monthly request; goals, persona, last report, syllabus | Topic progression, 31 briefs, levels → calendar | Read approved claims/history; write proposals only; 2 drafts/run | Content lead |
+| Strategy & curriculum | Monthly request; goals, persona, last report, syllabus | Topic progression, 30 briefs, levels → calendar | Read approved claims/history; write proposals only; 2 drafts/run | Content lead |
 | Cadence & calendar | Accepted strategy; weekday/weekend rules, account capabilities | Dated IST slots, UTC values, platform variants → writer | Calendar CRUD in draft; cannot move approved slots; 1 proposal + 1 revision | Manager |
 | Word-bank librarian | Brief creation; rolling 90-day word history | Reserved unique word, meaning, level, examples | Transactional word reservation; no publishing; 2 alternatives | English editor |
 | Script & hook writer | Brief, word, Sia bible, approved claims | Two hooks, timed Hinglish beats, English lesson, CTAs | Model API; draft script only; 2 candidates + 1 rewrite | English editor |
@@ -126,7 +128,7 @@ Responsive desktop-first UI with keyboard navigation, accessible status text bey
 | Screen | Manager actions | Acceptance criteria |
 |---|---|---|
 | Overview | See today's release plan, remaining approvals, errors, budget and connections | Every number drills into matching records; live and simulated data cannot mix; last refreshed visible |
-| Calendar | Month/week/list, platform/status/show filters, inspect episode, draft reschedule, export | All 31 dates; weekday/weekend slots; collisions flagged; reschedule explains approval reset; UTC/IST round-trip correct |
+| Calendar | Month/week/list, platform/status/show filters, inspect episode, draft reschedule, export | All 30 dates; weekday/weekend slots; collisions flagged; reschedule explains approval reset; UTC/IST round-trip correct |
 | Studio | Edit brief, choose hook, inspect Sia/set, preview audio, timed script, subtitles, renders, variants | Shows actual media or “not generated”; voice missing blocks render; regenerate makes new version; no invented playback |
 | Approval queue | Side-by-side platforms, play every cut, notes, request changes, reject, approve selected versions | Human role required; hash/version visible; blocked QA cannot pass; bulk list is explicit; full history retained |
 | Publishing queue | See per-account states and attempt timeline; retry safe failure, reconcile unknown, cancel | Partial success explicit; retry disabled on unknown until reconciled; kill switch visible; dry-run outcome unmistakable |
@@ -179,7 +181,7 @@ Use consent-aware campaign UTMs, e.g. source instagram/facebook/x, medium organi
 
 ## 11. Cost, reliability and incident operations
 
-Configure hard ceilings before generation. Illustrative **planning envelope, not a provider quote**: reserve separate limits for scripts, speech, video, render/storage/egress, platform API access and monitoring. Monthly estimate = 31 × (video cost/episode × expected attempts + voice + rendering) + extra story assets + API access + hosting. Example attempt factor 1.5 produces roughly 47 episode generation attempts; the real rate must come from vendor billing. Adapting one source episode into IG and Facebook releases and supporting story frames should not require independent avatar generation for each derivative. Show forecast, committed provider jobs and actual invoiced cost separately.
+Configure hard ceilings before generation. Illustrative **planning envelope, not a provider quote**: reserve separate limits for scripts, speech, video, render/storage/egress, platform API access and monitoring. Monthly estimate = 30 × (video cost/episode × expected attempts + voice + rendering) + extra story assets + API access + hosting. Example attempt factor 1.5 produces 45 episode generation attempts; the real rate must come from vendor billing. Adapting one source episode into IG and Facebook releases and supporting story frames should not require independent avatar generation for each derivative. Show forecast, committed provider jobs and actual invoiced cost separately.
 
 At 70% budget notify; at 90% hold optional experiments; at 100% stop new paid generation and require owner budget change. Do not stop already-approved publishing merely because a generation budget is reached. Apply per-agent per-run and monthly caps, concurrency 1–2 for media initially, 20-minute poll deadline or provider-specific configured deadline, and at most two regeneration attempts before human review. Cancel providers only where supported; cancellation may still be billable.
 
@@ -219,7 +221,7 @@ This is an aggressive rollout target, **not a guaranteed production date**. Plat
 
 | Requested outcome | Planned deliverable | Proof before claiming complete |
 |---|---|---|
-| Full October plan | 31 dated teaching packages with audio/video/variants and cadence | Calendar date audit, unique words, daily show alignment |
+| Full October plan | 30 dated teaching packages with audio/video/variants and cadence | Calendar date audit, unique words, daily show alignment |
 | Only Sia in video | Character bible, location rules, voice registry, render QA | Human-approved identity test and every final clip reviewed |
 | Sia teaches at locations | Approved virtual/real set library and location-themed lessons | Correctly labelled set/provenance, no other people/voices |
 | Weekday/weekend scheduling | IST calendar and separate cadence rules | UTC round-trip, collision and missed-slot tests |

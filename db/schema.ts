@@ -1,0 +1,6 @@
+import {sqliteTable,text,integer,uniqueIndex} from 'drizzle-orm/sqlite-core';
+export const documents=sqliteTable('documents',{id:text('id').primaryKey(),body:text('body').notNull(),revision:integer('revision').notNull().default(1),updatedAt:text('updated_at').notNull(),actor:text('actor').notNull()});
+export const members=sqliteTable('members',{email:text('email').primaryKey(),userId:text('user_id'),role:text('role').notNull()});
+export const versions=sqliteTable('versions',{id:text('id').primaryKey(),lessonId:text('lesson_id').notNull(),body:text('body').notNull(),parentId:text('parent_id'),createdAt:text('created_at').notNull(),actor:text('actor').notNull(),status:text('status').notNull().default('Draft'),approval:text('approval')});
+export const jobs=sqliteTable('jobs',{id:text('id').primaryKey(),versionId:text('version_id').notNull(),idempotencyKey:text('idempotency_key').notNull(),status:text('status').notNull(),stage:text('stage').notNull(),providerId:text('provider_id'),body:text('body').notNull(),createdAt:text('created_at').notNull(),updatedAt:text('updated_at').notNull()},t=>[uniqueIndex('jobs_idempotency').on(t.idempotencyKey)]);
+export const events=sqliteTable('events',{id:text('id').primaryKey(),at:text('at').notNull(),actor:text('actor').notNull(),action:text('action').notNull(),target:text('target').notNull()});
