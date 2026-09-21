@@ -1,0 +1,77 @@
+[
+  {
+    "id": "delhi",
+    "name": "Delhi · India Gate",
+    "src": "assets/maps/delhi.webp"
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad · Charminar & Golconda",
+    "src": "assets/maps/hyderabad.webp"
+  },
+  {
+    "id": "lucknow",
+    "name": "Lucknow & Kanpur",
+    "src": "assets/maps/lucknow.webp"
+  },
+  {
+    "id": "patna",
+    "name": "Patna & Vaishali",
+    "src": "assets/maps/patna.webp"
+  },
+  {
+    "id": "guwahati",
+    "name": "Guwahati & Kamakhya",
+    "src": "assets/maps/guwahati.webp"
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur · Pink City",
+    "src": "assets/maps/jaipur.webp"
+  },
+  {
+    "id": "agra",
+    "name": "Agra · Taj Mahal",
+    "src": "assets/maps/agra.webp"
+  },
+  {
+    "id": "varanasi",
+    "name": "Varanasi · Ghats",
+    "src": "assets/maps/varanasi.webp"
+  },
+  {
+    "id": "indore",
+    "name": "Indore, Ujjain & Mandu",
+    "src": "assets/maps/indore.webp"
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat · Statue of Unity & Gir",
+    "src": "assets/maps/gujarat.webp"
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur · Geographic Centre",
+    "src": "assets/maps/nagpur.webp"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai · Marine Drive",
+    "src": "assets/maps/mumbai.webp"
+  },
+  {
+    "id": "pune",
+    "name": "Pune, Lonavala & Khandala",
+    "src": "assets/maps/pune.webp"
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha · Konark & Puri",
+    "src": "assets/maps/odisha.webp"
+  },
+  {
+    "id": "bangalore",
+    "name": "Bangalore · Vidhana Soudha",
+    "src": "assets/maps/bangalore.webp"
+  }
+]

@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "SIA-2026-10-01",
+    "date": "2026-10-01",
+    "day": "Thursday",
+    "show": "Baat-Cheet Thursday",
+    "topic": "Introduce yourself in an interview",
+    "level": "A1",
+    "hook": "Interview mein pehli line par atak jaate ho?",
+    "target": "My name is Riya. I am a student.",
+    "word": "Introduce",
+    "meaning": "parichay dena; tell someone who you are",
+    "example": "Let me introduce myself.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Interview mein pehli line par atak jaate ho? Hi, main Sia! Aaj interview room mein introduction dena seekhenge. [TEXT ONLY: Tell me about yourself.] My name is Riya. I am a student. Naam aur role apne hisaab se badlo. Bolke dekho: My name is Riya. [2-second pause] Aaj ka word: Introduce. parichay dena. Let me introduce myself. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Apna two-line introduction likho.",
+    "instagram": "Interview mein pehli line par atak jaate ho?\nMy name is Riya. I am a student.\nApna two-line introduction likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Introduce yourself in an interview.\nMy name is Riya. I am a student.\nApna two-line introduction likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: My name is Riya. I am a student. Today’s word: Introduce — tell someone who you are. Example: Let me introduce myself. #SpeakX",
+    "xEvening": "Sia practice: Apna two-line introduction likho. Hint: My name is Riya. I am a student. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Apna two-line introduction likho. 2) Tap for model: My name is Riya. I am a student. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: My name is Riya. I am a student.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching introduce yourself in an interview; captions show: My name is Riya. I am a student.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-02",
+    "date": "2026-10-02",
+    "day": "Friday",
+    "show": "Sentence Banao Friday",
+    "topic": "Build a subject–verb–object sentence",
+    "level": "A1",
+    "hook": "English sentence kahan se shuru karein?",
+    "target": "I read books.",
+    "word": "Habit",
+    "meaning": "aadat; something you do regularly",
+    "example": "Reading is a good habit.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "English sentence kahan se shuru karein? Hi, main Sia! Pehle kaun, phir action, phir object. I read books. I: kaun; read: action; books: kya. Ek aur: She drinks tea. Aaj action aur object wale sentences banao. Bolke dekho: I read books. [2-second pause] Aaj ka word: Habit. aadat. Reading is a good habit. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I watch ___ ko complete karo.",
+    "instagram": "English sentence kahan se shuru karein?\nI read books.\nI watch ___ ko complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Build a subject–verb–object sentence.\nI read books.\nI watch ___ ko complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I read books. Today’s word: Habit — something you do regularly. Example: Reading is a good habit. #SpeakX",
+    "xEvening": "Sia practice: I watch ___ ko complete karo. Hint: I read books. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I watch ___ ko complete karo. 2) Tap for model: I read books. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I read books.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching build a subject–verb–object sentence; captions show: I read books.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 58,
+    "estimatedSpeechSeconds": 36.2,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-03",
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "show": "Galti Pakdo Saturday",
+    "topic": "Find the missing am",
+    "level": "A1",
+    "hook": "I happy mein kya missing hai?",
+    "target": "I am happy.",
+    "word": "Ready",
+    "meaning": "taiyaar; prepared",
+    "example": "I am ready.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "I happy mein kya missing hai? Hi, main Sia! [❌ WRONG: I happy.] Sahi: I am happy. I ke saath yahan am chahiye. I am tired. I am ready. Feeling ya state batate waqt I am bolo. Bolke dekho: I am happy. [2-second pause] Aaj ka word: Ready. taiyaar. I am ready. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I ___ excited: missing word likho.",
+    "instagram": "I happy mein kya missing hai?\nI am happy.\nI ___ excited: missing word likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Find the missing am.\nI am happy.\nI ___ excited: missing word likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am happy. Today’s word: Ready — prepared. Example: I am ready. #SpeakX",
+    "xEvening": "Sia practice: I ___ excited: missing word likho. Hint: I am happy. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I ___ excited: missing word likho. 2) Tap for model: I am happy. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am happy.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching find the missing am; captions show: I am happy.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 53,
+    "estimatedSpeechSeconds": 33.4,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-04",
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "show": "Revision Sunday",
+    "topic": "Opening-week three-question revision",
+    "level": "A1",
+    "hook": "Teen chhote sawaal: kitna yaad raha?",
+    "target": "I am a student. I read books. I am happy.",
+    "word": "Recall",
+    "meaning": "yaad karna; bring something back to mind",
+    "example": "Try to recall the answer.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Teen chhote sawaal: kitna yaad raha? Hi, main Sia! One: My name ___ Riya. [1-second pause] Is. Two: [❌ WRONG: I books read.] Sahi order? [1-second pause] I read books. Three: I ___ happy. [1-second pause] Am. Teen chhote fixes! Bolke dekho: I am happy. [2-second pause] Aaj ka word: Recall. yaad karna. Try to recall the answer. Apna score batao. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Score 0 se 3 aur ek sentence likho.",
+    "instagram": "Teen chhote sawaal: kitna yaad raha?\nI am a student. I read books. I am happy.\nScore 0 se 3 aur ek sentence likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Opening-week three-question revision.\nI am a student. I read books. I am happy.\nScore 0 se 3 aur ek sentence likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am a student. I read books. I am happy. Today’s word: Recall — bring something back to mind. Example: Try to recall the answer. #SpeakX",
+    "xEvening": "Sia practice: Score 0 se 3 aur ek sentence likho. Hint: I am a student. I read books. I am happy. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Score 0 se 3 aur ek sentence likho. 2) Tap for model: I am a student. I read books. I am happy. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am a student. I read books. I am happy.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching opening-week three-question revision; captions show: I am a student. I read books. I am happy.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 51,
+    "estimatedSpeechSeconds": 35.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-05",
+    "date": "2026-10-05",
+    "day": "Monday",
+    "show": "Word Wala Monday",
+    "topic": "Confident: describe how you feel",
+    "level": "A2",
+    "hook": "Confidence ki English confident kab banti hai?",
+    "target": "I feel confident.",
+    "word": "Confident",
+    "meaning": "aatmavishwasi; sure of your ability",
+    "example": "I feel confident today.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Confident ya confidence? Hi, main Sia! Aaj ka word confident: KON-fi-dent. Matlab aatmavishwasi. I feel confident today. She sounds confident in interviews. Confident adjective hai; confidence noun. [❌ WRONG: I feel confidence.] Sahi: I feel confident. Bolke dekho: I feel confident. [2-second pause] Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I feel confident when ___ complete karo.",
+    "instagram": "Confidence ki English confident kab banti hai?\nI feel confident.\nI feel confident when ___ complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Confident: describe how you feel.\nI feel confident.\nI feel confident when ___ complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I feel confident. Today’s word: Confident — sure of your ability. Example: I feel confident today. #SpeakX",
+    "xEvening": "Sia practice: I feel confident when ___ complete karo. Hint: I feel confident. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I feel confident when ___ complete karo. 2) Tap for model: I feel confident. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I feel confident.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching confident: describe how you feel; captions show: I feel confident.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Reinforce the same word and examples; no extra daily-word segment. Allow reading/repetition time."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 43,
+    "estimatedSpeechSeconds": 27.9,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-06",
+    "date": "2026-10-06",
+    "day": "Tuesday",
+    "show": "Grammar Tuesday",
+    "topic": "Am, is and are",
+    "level": "A1",
+    "hook": "He am ready? Ek chhota fix!",
+    "target": "I am ready. He is ready. We are ready.",
+    "word": "Calm",
+    "meaning": "shaant; relaxed and not worried",
+    "example": "Stay calm.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "He am ready? Ek chhota fix! Hi, main Sia! I ke saath am. He, she, it ke saath is. You, we, they ke saath are. I am ready. He is ready. We are ready. [❌ WRONG: He am ready.] Bolke dekho: We are ready. [2-second pause] Aaj ka word: Calm. shaant. Stay calm. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "They ___ ready: answer do.",
+    "instagram": "He am ready? Ek chhota fix!\nI am ready. He is ready. We are ready.\nThey ___ ready: answer do.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Am, is and are.\nI am ready. He is ready. We are ready.\nThey ___ ready: answer do. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am ready. He is ready. We are ready. Today’s word: Calm — relaxed and not worried. Example: Stay calm. #SpeakX",
+    "xEvening": "Sia practice: They ___ ready: answer do. Hint: I am ready. He is ready. We are ready. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: They ___ ready: answer do. 2) Tap for model: I am ready. He is ready. We are ready. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am ready. He is ready. We are ready.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching am, is and are; captions show: I am ready. He is ready. We are ready.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 53,
+    "estimatedSpeechSeconds": 33.4,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-07",
+    "date": "2026-10-07",
+    "day": "Wednesday",
+    "show": "Ek ya Anek Wednesday",
+    "topic": "One book, two books",
+    "level": "A1",
+    "hook": "Ek book, do book? Chhota sa s!",
+    "target": "One book. Two books.",
+    "word": "Shelf",
+    "meaning": "takhta ya rack; a place to keep things",
+    "example": "The books are on the shelf.",
+    "location": "Virtual library corner",
+    "duration": 45,
+    "script": "Ek book, do book? Chhota sa s! Hi, main Sia! Regular plural: book se books, pen se pens. One book, two books. One pen, three pens. In words mein ek se zyada ho toh s lagao. [❌ WRONG: Two book.] Bolke dekho: One book. [2-second pause] Aaj ka word: Shelf. takhta ya rack. The books are on the shelf. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "One cup, two ___?",
+    "instagram": "Ek book, do book? Chhota sa s!\nOne book. Two books.\nOne cup, two ___?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: One book, two books.\nOne book. Two books.\nOne cup, two ___? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: One book. Two books. Today’s word: Shelf — a place to keep things. Example: The books are on the shelf. #SpeakX",
+    "xEvening": "Sia practice: One cup, two ___? Hint: One book. Two books. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: One cup, two ___? 2) Tap for model: One book. Two books. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "EDU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: One book. Two books.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual library corner, teaching one book, two books; captions show: One book. Two books.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 60,
+    "estimatedSpeechSeconds": 37.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-08",
+    "date": "2026-10-08",
+    "day": "Thursday",
+    "show": "Baat-Cheet Thursday",
+    "topic": "Ask politely at reception",
+    "level": "A2",
+    "hook": "Reception par room poochna ho toh?",
+    "target": "Could you tell me where the interview room is?",
+    "word": "Reception",
+    "meaning": "swagat desk; the desk that welcomes visitors",
+    "example": "Please wait at reception.",
+    "location": "Virtual office reception",
+    "duration": 45,
+    "script": "Reception par room poochna ho toh? Hi, main Sia! Aaj office reception mein room poochna seekhenge. [TEXT ONLY: Ask for the interview room.] Could you tell me where the interview room is? [TEXT ONLY: First floor.] Thank you. Could you polite request hai. Bolke dekho: Could you tell me where the interview room is? [2-second pause] Aaj ka word: Reception. swagat desk. Please wait at reception. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Is sentence ko bolkar save karo.",
+    "instagram": "Reception par room poochna ho toh?\nCould you tell me where the interview room is?\nIs sentence ko bolkar save karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Ask politely at reception.\nCould you tell me where the interview room is?\nIs sentence ko bolkar save karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Could you tell me where the interview room is? Today’s word: Reception — the desk that welcomes visitors. Example: Please wait at reception. #SpeakX",
+    "xEvening": "Sia practice: Is sentence ko bolkar save karo. Hint: Could you tell me where the interview room is? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Is sentence ko bolkar save karo. 2) Tap for model: Could you tell me where the interview room is? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Could you tell me where the interview room is?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual office reception, teaching ask politely at reception; captions show: Could you tell me where the interview room is?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 60,
+    "estimatedSpeechSeconds": 37.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-09",
+    "date": "2026-10-09",
+    "day": "Friday",
+    "show": "Sentence Banao Friday",
+    "topic": "Question word order",
+    "level": "B1",
+    "hook": "Where you work? Isko question banao.",
+    "target": "Where do you work?",
+    "word": "Workplace",
+    "meaning": "kaam ki jagah; the place where you work",
+    "example": "My workplace is nearby.",
+    "location": "Virtual coworking desk",
+    "duration": 45,
+    "script": "Where you work? Isko question banao. Hi, main Sia! [❌ WRONG: Where you work?] Sahi: Where do you work? Pattern: where, do, you, base verb. Where do you live? Where do you study? Do ko mat bhoolo. Bolke dekho: Where do you work?. [2-second pause] Aaj ka word: Workplace. kaam ki jagah. My workplace is nearby. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Where do you ___? ek question likho.",
+    "instagram": "Where you work? Isko question banao.\nWhere do you work?\nWhere do you ___? ek question likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Question word order.\nWhere do you work?\nWhere do you ___? ek question likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Where do you work? Today’s word: Workplace — the place where you work. Example: My workplace is nearby. #SpeakX",
+    "xEvening": "Sia practice: Where do you ___? ek question likho. Hint: Where do you work? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Where do you ___? ek question likho. 2) Tap for model: Where do you work? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Where do you work?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual coworking desk, teaching question word order; captions show: Where do you work?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-10",
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "show": "Galti Pakdo Saturday",
+    "topic": "She does not, not she do not",
+    "level": "A1",
+    "hook": "She do not like tea: galti pakdo!",
+    "target": "She does not like tea.",
+    "word": "Prefer",
+    "meaning": "zyada pasand karna; like one option more",
+    "example": "I prefer tea.",
+    "location": "Virtual empty café",
+    "duration": 45,
+    "script": "She do not: chhota fix! Hi, main Sia! [❌ WRONG: She do not like tea.] Sahi: She does not like tea. She ke saath does not, phir base verb. She does not drink coffee. [❌ WRONG: She does not drinks coffee.] Bolke dekho: She does not like tea. [2-second pause] Aaj ka word: Prefer. zyada pasand karna. I prefer tea. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "He ___ not like coffee: do ya does?",
+    "instagram": "She do not like tea: galti pakdo!\nShe does not like tea.\nHe ___ not like coffee: do ya does?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: She does not, not she do not.\nShe does not like tea.\nHe ___ not like coffee: do ya does? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: She does not like tea. Today’s word: Prefer — like one option more. Example: I prefer tea. #SpeakX",
+    "xEvening": "Sia practice: He ___ not like coffee: do ya does? Hint: She does not like tea. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: He ___ not like coffee: do ya does? 2) Tap for model: She does not like tea. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "FND",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: She does not like tea.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual empty café, teaching she does not, not she do not; captions show: She does not like tea.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 51,
+    "estimatedSpeechSeconds": 32.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-11",
+    "date": "2026-10-11",
+    "day": "Sunday",
+    "show": "Revision Sunday",
+    "topic": "Week two mini test",
+    "level": "A1",
+    "hook": "Aaj teen sawaalon ka confidence check!",
+    "target": "He is ready. Two books. Where do you work?",
+    "word": "Progress",
+    "meaning": "taraqqi; improvement over time",
+    "example": "Small steps bring progress.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Aaj teen sawaalon ka confidence check! Hi, main Sia! One: He ___ ready. [1-second pause] Is. Two: One book, two ___? [1-second pause] Books. Three: Where ___ you work? [1-second pause] Do. Jo miss hua, phir bolo. Bolke dekho: He is ready. [2-second pause] Aaj ka word: Progress. taraqqi. Small steps bring progress. Apna score batao. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Teen mein se apna score batao.",
+    "instagram": "Aaj teen sawaalon ka confidence check!\nHe is ready. Two books. Where do you work?\nTeen mein se apna score batao.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Week two mini test.\nHe is ready. Two books. Where do you work?\nTeen mein se apna score batao. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: He is ready. Two books. Where do you work? Today’s word: Progress — improvement over time. Example: Small steps bring progress. #SpeakX",
+    "xEvening": "Sia practice: Teen mein se apna score batao. Hint: He is ready. Two books. Where do you work? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Teen mein se apna score batao. 2) Tap for model: He is ready. Two books. Where do you work? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: He is ready. Two books. Where do you work?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching week two mini test; captions show: He is ready. Two books. Where do you work?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 51,
+    "estimatedSpeechSeconds": 35.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-12",
+    "date": "2026-10-12",
+    "day": "Monday",
+    "show": "Word Wala Monday",
+    "topic": "Reliable: describe a strength",
+    "level": "B1",
+    "hook": "Interview mein hardworking ke alawa kya bolein?",
+    "target": "I am reliable.",
+    "word": "Reliable",
+    "meaning": "bharosemand; someone you can depend on",
+    "example": "She is a reliable teammate.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Interview mein hardworking ke alawa kya bolein? Hi, main Sia! Aaj ka word reliable: ri-LAI-uh-bul. Matlab bharosemand. I am reliable. She is a reliable teammate. Example jodo: I finish my tasks on time. Reliable adjective hai. [❌ WRONG: I am reliably.] Bolke dekho: I am reliable. [2-second pause] Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Apni strength ka ek real example likho.",
+    "instagram": "Interview mein hardworking ke alawa kya bolein?\nI am reliable.\nApni strength ka ek real example likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Reliable: describe a strength.\nI am reliable.\nApni strength ka ek real example likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am reliable. Today’s word: Reliable — someone you can depend on. Example: She is a reliable teammate. #SpeakX",
+    "xEvening": "Sia practice: Apni strength ka ek real example likho. Hint: I am reliable. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Apni strength ka ek real example likho. 2) Tap for model: I am reliable. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am reliable.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching reliable: describe a strength; captions show: I am reliable.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Reinforce the same word and examples; no extra daily-word segment. Allow reading/repetition time."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 48,
+    "estimatedSpeechSeconds": 30.7,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-13",
+    "date": "2026-10-13",
+    "day": "Tuesday",
+    "show": "Grammar Tuesday",
+    "topic": "Has and have",
+    "level": "A1",
+    "hook": "She have a laptop? Chalo fix karein.",
+    "target": "She has a laptop. I have a laptop.",
+    "word": "Resource",
+    "meaning": "saadhan; something useful for a task",
+    "example": "This book is a useful resource.",
+    "location": "Virtual study room",
+    "duration": 45,
+    "script": "She have a laptop? Chalo fix karein. Hi, main Sia! I, you, we, they ke saath have. He, she, it ke saath has. I have a laptop. She has a laptop. [❌ WRONG: She have a laptop.] Bolke dekho: She has a laptop. [2-second pause] Aaj ka word: Resource. saadhan. This book is a useful resource. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "They ___ a plan: has ya have?",
+    "instagram": "She have a laptop? Chalo fix karein.\nShe has a laptop. I have a laptop.\nThey ___ a plan: has ya have?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Has and have.\nShe has a laptop. I have a laptop.\nThey ___ a plan: has ya have? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: She has a laptop. I have a laptop. Today’s word: Resource — something useful for a task. Example: This book is a useful resource. #SpeakX",
+    "xEvening": "Sia practice: They ___ a plan: has ya have? Hint: She has a laptop. I have a laptop. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: They ___ a plan: has ya have? 2) Tap for model: She has a laptop. I have a laptop. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "EDU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: She has a laptop. I have a laptop.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual study room, teaching has and have; captions show: She has a laptop. I have a laptop.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 55,
+    "estimatedSpeechSeconds": 34.6,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-14",
+    "date": "2026-10-14",
+    "day": "Wednesday",
+    "show": "Ek ya Anek Wednesday",
+    "topic": "City becomes cities",
+    "level": "A2",
+    "hook": "Do city ya two cities?",
+    "target": "One city. Two cities.",
+    "word": "Journey",
+    "meaning": "safar; a trip from one place to another",
+    "example": "Our journey starts today.",
+    "location": "Virtual airport information desk",
+    "duration": 45,
+    "script": "Do city ya two cities? Hi, main Sia! Consonant plus y: y hata kar ies. City se cities. Baby se babies. Vowel plus y: sirf s. Day se days. [❌ WRONG: Two city.] Sahi: Two cities. Bolke dekho: One city. [2-second pause] Aaj ka word: Journey. safar. Our journey starts today. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "One story, two ___?",
+    "instagram": "Do city ya two cities?\nOne city. Two cities.\nOne story, two ___?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: City becomes cities.\nOne city. Two cities.\nOne story, two ___? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: One city. Two cities. Today’s word: Journey — a trip from one place to another. Example: Our journey starts today. #SpeakX",
+    "xEvening": "Sia practice: One story, two ___? Hint: One city. Two cities. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: One story, two ___? 2) Tap for model: One city. Two cities. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "AIR",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: One city. Two cities.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual airport information desk, teaching city becomes cities; captions show: One city. Two cities.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 52,
+    "estimatedSpeechSeconds": 32.9,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-15",
+    "date": "2026-10-15",
+    "day": "Thursday",
+    "show": "Baat-Cheet Thursday",
+    "topic": "Ask an interviewer to repeat",
+    "level": "B1",
+    "hook": "Sawaal samajh nahi aaya? Guess mat karo.",
+    "target": "Could you please repeat the question?",
+    "word": "Clarify",
+    "meaning": "saaf samjhana; make something clearer",
+    "example": "Could you clarify that point?",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Sawaal samajh nahi aaya? Guess mat karo. Hi, main Sia! Aaj interview room mein sawaal repeat karwana seekhenge. [TEXT ONLY: You missed the question.] Could you please repeat the question? [TEXT ONLY: Of course.] Thank you. Yeh polite request hai. Bolke dekho: Could you please repeat the question? [2-second pause] Aaj ka word: Clarify. saaf samjhana. Could you clarify that point? Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Apni polite request comment karo.",
+    "instagram": "Sawaal samajh nahi aaya? Guess mat karo.\nCould you please repeat the question?\nApni polite request comment karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Ask an interviewer to repeat.\nCould you please repeat the question?\nApni polite request comment karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Could you please repeat the question? Today’s word: Clarify — make something clearer. Example: Could you clarify that point? #SpeakX",
+    "xEvening": "Sia practice: Apni polite request comment karo. Hint: Could you please repeat the question? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Apni polite request comment karo. 2) Tap for model: Could you please repeat the question? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Could you please repeat the question?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching ask an interviewer to repeat; captions show: Could you please repeat the question?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-16",
+    "date": "2026-10-16",
+    "day": "Friday",
+    "show": "Sentence Banao Friday",
+    "topic": "Join a reason with because",
+    "level": "B1",
+    "hook": "Answer ko ek reason se strong banao.",
+    "target": "I applied because I enjoy solving problems.",
+    "word": "Reason",
+    "meaning": "wajah; why something happens",
+    "example": "Give one clear reason.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Answer ko ek reason se strong banao. Hi, main Sia! Because reason batata hai. I applied because I enjoy solving problems. Pehle action, phir because, phir reason. I practise English because I want to speak clearly. Apna sachcha reason do. Bolke dekho: I applied because I enjoy solving problems. [2-second pause] Aaj ka word: Reason. wajah. Give one clear reason. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I am learning English because ___ complete karo.",
+    "instagram": "Answer ko ek reason se strong banao.\nI applied because I enjoy solving problems.\nI am learning English because ___ complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Join a reason with because.\nI applied because I enjoy solving problems.\nI am learning English because ___ complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I applied because I enjoy solving problems. Today’s word: Reason — why something happens. Example: Give one clear reason. #SpeakX",
+    "xEvening": "Sia practice: I am learning English because ___ complete karo. Hint: I applied because I enjoy solving problems. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I am learning English because ___ complete karo. 2) Tap for model: I applied because I enjoy solving problems. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I applied because I enjoy solving problems.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching join a reason with because; captions show: I applied because I enjoy solving problems.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 65,
+    "estimatedSpeechSeconds": 40.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-17",
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "show": "Galti Pakdo Saturday",
+    "topic": "Discuss, without about",
+    "level": "B1",
+    "hook": "Discuss about the plan: extra word kaunsa?",
+    "target": "Let us discuss the plan.",
+    "word": "Agenda",
+    "meaning": "charcha ki list; topics for a meeting",
+    "example": "What is on the agenda?",
+    "location": "Virtual meeting room",
+    "duration": 45,
+    "script": "Discuss ke baad about? Hi, main Sia! [❌ WRONG: Let us discuss about the plan.] About hatao. Let us discuss the plan. We discussed the budget. Talk ke saath about aata hai: Let us talk about the plan. Bolke dekho: Let us discuss the plan. [2-second pause] Aaj ka word: Agenda. charcha ki list. What is on the agenda? Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "We discussed ___: apna topic likho.",
+    "instagram": "Discuss about the plan: extra word kaunsa?\nLet us discuss the plan.\nWe discussed ___: apna topic likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Discuss, without about.\nLet us discuss the plan.\nWe discussed ___: apna topic likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Let us discuss the plan. Today’s word: Agenda — topics for a meeting. Example: What is on the agenda? #SpeakX",
+    "xEvening": "Sia practice: We discussed ___: apna topic likho. Hint: Let us discuss the plan. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: We discussed ___: apna topic likho. 2) Tap for model: Let us discuss the plan. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Let us discuss the plan.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual meeting room, teaching discuss, without about; captions show: Let us discuss the plan.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-18",
+    "date": "2026-10-18",
+    "day": "Sunday",
+    "show": "Revision Sunday",
+    "topic": "Week three interview revision",
+    "level": "B1",
+    "hook": "Interview English ka teen-step test!",
+    "target": "She has a laptop. Could you repeat? I applied because…",
+    "word": "Reflect",
+    "meaning": "soch-vichaar karna; think carefully about something",
+    "example": "Reflect on your answer.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Interview English ka teen-step test! Hi, main Sia! One: She ___ a laptop. [1-second pause] Has. Two: Could you please ___ the question? [1-second pause] Repeat. Three: I applied ___ I enjoy solving problems. [1-second pause] Because. Bolke dekho: Could you please repeat the question? [2-second pause] Aaj ka word: Reflect. soch-vichaar karna. Reflect on your answer. Apna score batao. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Apna score aur hardest question batao.",
+    "instagram": "Interview English ka teen-step test!\nShe has a laptop. Could you repeat? I applied because…\nApna score aur hardest question batao.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Week three interview revision.\nShe has a laptop. Could you repeat? I applied because…\nApna score aur hardest question batao. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: She has a laptop. Could you repeat? I applied because… Today’s word: Reflect — think carefully about something. Example: Reflect on your answer. #SpeakX",
+    "xEvening": "Sia practice: Apna score aur hardest question batao. Hint: She has a laptop. Could you repeat? I applied because… #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Apna score aur hardest question batao. 2) Tap for model: She has a laptop. Could you repeat? I applied because… 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: She has a laptop. Could you repeat? I applied because…",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching week three interview revision; captions show: She has a laptop. Could you repeat? I applied because…",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 55,
+    "estimatedSpeechSeconds": 37.6,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-19",
+    "date": "2026-10-19",
+    "day": "Monday",
+    "show": "Word Wala Monday",
+    "topic": "Available: tell someone when you are free",
+    "level": "A2",
+    "hook": "Meeting ka time kaise batayein?",
+    "target": "I am available after three.",
+    "word": "Available",
+    "meaning": "uplabdh ya free; ready to be used or able to meet",
+    "example": "I am available after three.",
+    "location": "Virtual coworking desk",
+    "duration": 45,
+    "script": "Meeting ka time kaise batayein? Hi, main Sia! Aaj ka word available: uh-VAI-luh-bul. Matlab uplabdh ya free. I am available after three. Is this seat available? Meeting mein free, seat ke liye khaali. [❌ WRONG: I available.] Sahi: I am available. Bolke dekho: I am available after three. [2-second pause] Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I am available ___ complete karo.",
+    "instagram": "Meeting ka time kaise batayein?\nI am available after three.\nI am available ___ complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Available: tell someone when you are free.\nI am available after three.\nI am available ___ complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am available after three. Today’s word: Available — ready to be used or able to meet. Example: I am available after three. #SpeakX",
+    "xEvening": "Sia practice: I am available ___ complete karo. Hint: I am available after three. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I am available ___ complete karo. 2) Tap for model: I am available after three. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am available after three.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual coworking desk, teaching available: tell someone when you are free; captions show: I am available after three.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Reinforce the same word and examples; no extra daily-word segment. Allow reading/repetition time."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 51,
+    "estimatedSpeechSeconds": 32.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-20",
+    "date": "2026-10-20",
+    "day": "Tuesday",
+    "show": "Grammar Tuesday",
+    "topic": "Do and does in questions",
+    "level": "A1",
+    "hook": "Does she works? Ek extra s hai!",
+    "target": "Does she work here?",
+    "word": "Routine",
+    "meaning": "roz ka kram; your usual pattern of activities",
+    "example": "This is my morning routine.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Does ke baad extra s? Hi, main Sia! I, you, we, they ke question mein do. He, she, it ke saath does. Do you work here? Does she work here? Does ke baad base verb. [❌ WRONG: Does she works here?] Bolke dekho: Does she work here?. [2-second pause] Aaj ka word: Routine. roz ka kram. This is my morning routine. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "___ he study here: do ya does?",
+    "instagram": "Does she works? Ek extra s hai!\nDoes she work here?\n___ he study here: do ya does?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Do and does in questions.\nDoes she work here?\n___ he study here: do ya does? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Does she work here? Today’s word: Routine — your usual pattern of activities. Example: This is my morning routine. #SpeakX",
+    "xEvening": "Sia practice: ___ he study here: do ya does? Hint: Does she work here? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: ___ he study here: do ya does? 2) Tap for model: Does she work here? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Does she work here?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching do and does in questions; captions show: Does she work here?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 60,
+    "estimatedSpeechSeconds": 37.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-21",
+    "date": "2026-10-21",
+    "day": "Wednesday",
+    "show": "Ek ya Anek Wednesday",
+    "topic": "Child becomes children",
+    "level": "A2",
+    "hook": "Childs sunte ho? Sahi plural alag hai.",
+    "target": "One child. Two children.",
+    "word": "Group",
+    "meaning": "samooh; people or things together",
+    "example": "This group meets every week.",
+    "location": "Virtual empty classroom",
+    "duration": 45,
+    "script": "Childs sunte ho? Sahi plural alag hai. Hi, main Sia! Child ka plural children. One child, two children. [❌ WRONG: Childs.] The child is reading. The children are reading. Plural mein children ke saath are use karo. Bolke dekho: One child. [2-second pause] Aaj ka word: Group. samooh. This group meets every week. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "One child is here. Two ___ are here.",
+    "instagram": "Childs sunte ho? Sahi plural alag hai.\nOne child. Two children.\nOne child is here. Two ___ are here.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Child becomes children.\nOne child. Two children.\nOne child is here. Two ___ are here. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: One child. Two children. Today’s word: Group — people or things together. Example: This group meets every week. #SpeakX",
+    "xEvening": "Sia practice: One child is here. Two ___ are here. Hint: One child. Two children. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: One child is here. Two ___ are here. 2) Tap for model: One child. Two children. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "EDU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: One child. Two children.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual empty classroom, teaching child becomes children; captions show: One child. Two children.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 55,
+    "estimatedSpeechSeconds": 34.6,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-22",
+    "date": "2026-10-22",
+    "day": "Thursday",
+    "show": "Baat-Cheet Thursday",
+    "topic": "Ask for time to consider an offer",
+    "level": "B2",
+    "hook": "Offer mila, par sochne ka time chahiye?",
+    "target": "Would it be possible to have a day to consider the offer?",
+    "word": "Consider",
+    "meaning": "vichaar karna; think carefully before deciding",
+    "example": "I would like to consider the offer.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Offer mila, par sochne ka time chahiye? Hi, main Sia! Aaj interview room mein offer par sochne ka time maangna seekhenge. [TEXT ONLY: We offer you the role.] Thank you. Would it be possible to have a day to consider the offer? Time clear bolo. Bolke dekho: Could I have a day to consider the offer? [2-second pause] Aaj ka word: Consider. vichaar karna. I would like to consider the offer. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Is request ko apni voice mein practise karo.",
+    "instagram": "Offer mila, par sochne ka time chahiye?\nWould it be possible to have a day to consider the offer?\nIs request ko apni voice mein practise karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Ask for time to consider an offer.\nWould it be possible to have a day to consider the offer?\nIs request ko apni voice mein practise karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Would it be possible to have a day to consider the offer? Today’s word: Consider — think carefully before deciding. Example: I would like to consider the offer. #SpeakX",
+    "xEvening": "Sia practice: Is request ko apni voice mein practise karo. Hint: Would it be possible to have a day to consider the offer? #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Is request ko apni voice mein practise karo. 2) Tap for model: Would it be possible to have a day to consider the offer? 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Would it be possible to have a day to consider the offer?",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching ask for time to consider an offer; captions show: Would it be possible to have a day to consider the offer?",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 69,
+    "estimatedSpeechSeconds": 42.3,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-23",
+    "date": "2026-10-23",
+    "day": "Friday",
+    "show": "Sentence Banao Friday",
+    "topic": "Connect a plan and a deadline",
+    "level": "B1",
+    "hook": "By Friday aur on Friday same nahi!",
+    "target": "I will send the report by Friday.",
+    "word": "Deadline",
+    "meaning": "antim samay; the latest time something is due",
+    "example": "The deadline is Friday.",
+    "location": "Virtual coworking desk",
+    "duration": 45,
+    "script": "By Friday aur on Friday same nahi! Hi, main Sia! By Friday: Friday tak, pehle bhi ho sakta hai. I will send the report by Friday. On Friday: Friday ko. I will send the report on Friday. Deadline ke liye by. Bolke dekho: I will send the report by Friday. [2-second pause] Aaj ka word: Deadline. antim samay. The deadline is Friday. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I will finish ___ by ___ complete karo.",
+    "instagram": "By Friday aur on Friday same nahi!\nI will send the report by Friday.\nI will finish ___ by ___ complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Connect a plan and a deadline.\nI will send the report by Friday.\nI will finish ___ by ___ complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I will send the report by Friday. Today’s word: Deadline — the latest time something is due. Example: The deadline is Friday. #SpeakX",
+    "xEvening": "Sia practice: I will finish ___ by ___ complete karo. Hint: I will send the report by Friday. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I will finish ___ by ___ complete karo. 2) Tap for model: I will send the report by Friday. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I will send the report by Friday.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual coworking desk, teaching connect a plan and a deadline; captions show: I will send the report by Friday.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 67,
+    "estimatedSpeechSeconds": 41.2,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-24",
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "show": "Galti Pakdo Saturday",
+    "topic": "Did not plus base verb",
+    "level": "A2",
+    "hook": "I did not went: galti mil gayi?",
+    "target": "I did not go.",
+    "word": "Attempt",
+    "meaning": "koshish; an effort to do something",
+    "example": "Make another attempt.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "I did not went: galti mil gayi? Hi, main Sia! [❌ WRONG: I did not went.] Did not ke baad base verb. I did not go. I did not call. I did not finish. Past ka signal did mein hai. Bolke dekho: I did not go. [2-second pause] Aaj ka word: Attempt. koshish. Make another attempt. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "She did not ___: call ya called?",
+    "instagram": "I did not went: galti mil gayi?\nI did not go.\nShe did not ___: call ya called?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Did not plus base verb.\nI did not go.\nShe did not ___: call ya called? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I did not go. Today’s word: Attempt — an effort to do something. Example: Make another attempt. #SpeakX",
+    "xEvening": "Sia practice: She did not ___: call ya called? Hint: I did not go. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: She did not ___: call ya called? 2) Tap for model: I did not go. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I did not go.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching did not plus base verb; captions show: I did not go.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 55,
+    "estimatedSpeechSeconds": 34.6,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-25",
+    "date": "2026-10-25",
+    "day": "Sunday",
+    "show": "Revision Sunday",
+    "topic": "Week four three-question revision",
+    "level": "B1",
+    "hook": "Time, questions aur deadline yaad hain?",
+    "target": "Does she work here? Children. By Friday.",
+    "word": "Review",
+    "meaning": "dobara dekhna; check something again",
+    "example": "Review your answers.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Time, questions aur deadline yaad hain? Hi, main Sia! One: Does she ___ here? [1-second pause] Work. Two: Child ka plural? [1-second pause] Children. Three: Friday tak: by Friday ya on Friday? [1-second pause] By Friday. Bolke dekho: I will send it by Friday. [2-second pause] Aaj ka word: Review. dobara dekhna. Review your answers. Apna score batao. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Score likho; ek answer friend ko samjhao.",
+    "instagram": "Time, questions aur deadline yaad hain?\nDoes she work here? Children. By Friday.\nScore likho; ek answer friend ko samjhao.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Week four three-question revision.\nDoes she work here? Children. By Friday.\nScore likho; ek answer friend ko samjhao. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: Does she work here? Children. By Friday. Today’s word: Review — check something again. Example: Review your answers. #SpeakX",
+    "xEvening": "Sia practice: Score likho; ek answer friend ko samjhao. Hint: Does she work here? Children. By Friday. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Score likho; ek answer friend ko samjhao. 2) Tap for model: Does she work here? Children. By Friday. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: Does she work here? Children. By Friday.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching week four three-question revision; captions show: Does she work here? Children. By Friday.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 53,
+    "estimatedSpeechSeconds": 36.4,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-26",
+    "date": "2026-10-26",
+    "day": "Monday",
+    "show": "Word Wala Monday",
+    "topic": "Adaptable: explain flexibility",
+    "level": "B2",
+    "hook": "Change aata hai toh tum kaise respond karte ho?",
+    "target": "I am adaptable.",
+    "word": "Adaptable",
+    "meaning": "badlav ke saath dhalne wala; able to adjust to change",
+    "example": "I am adaptable when plans change.",
+    "location": "Virtual interview room",
+    "duration": 45,
+    "script": "Badlav ke saath dhalna aata hai? Hi, main Sia! Aaj ka word adaptable: uh-DAP-tuh-bul. Matlab badlav ke saath dhalne wala. I am adaptable when plans change. An adaptable teammate learns new tools. Adaptable adjective, adaptability noun. [❌ WRONG: I am adaptability.] Bolke dekho: I am adaptable. [2-second pause] Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Ek real change aur apna response likho.",
+    "instagram": "Change aata hai toh tum kaise respond karte ho?\nI am adaptable.\nEk real change aur apna response likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Adaptable: explain flexibility.\nI am adaptable.\nEk real change aur apna response likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am adaptable. Today’s word: Adaptable — able to adjust to change. Example: I am adaptable when plans change. #SpeakX",
+    "xEvening": "Sia practice: Ek real change aur apna response likho. Hint: I am adaptable. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Ek real change aur apna response likho. 2) Tap for model: I am adaptable. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am adaptable.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual interview room, teaching adaptable: explain flexibility; captions show: I am adaptable.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Reinforce the same word and examples; no extra daily-word segment. Allow reading/repetition time."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 48,
+    "estimatedSpeechSeconds": 30.7,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-27",
+    "date": "2026-10-27",
+    "day": "Tuesday",
+    "show": "Grammar Tuesday",
+    "topic": "Was and were",
+    "level": "A1",
+    "hook": "Yesterday I am busy? Past mein kya hoga?",
+    "target": "I was busy yesterday. They were busy yesterday.",
+    "word": "Earlier",
+    "meaning": "pehle; before now or before another time",
+    "example": "I called earlier.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "Yesterday I am busy? Past mein kya hoga? Hi, main Sia! Past mein I, he, she, it ke saath was. You, we, they ke saath were. I was busy yesterday. They were busy yesterday. [❌ WRONG: Yesterday I am busy.] Bolke dekho: We were at home yesterday. [2-second pause] Aaj ka word: Earlier. pehle. I called earlier. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "She ___ tired yesterday: was ya were?",
+    "instagram": "Yesterday I am busy? Past mein kya hoga?\nI was busy yesterday. They were busy yesterday.\nShe ___ tired yesterday: was ya were?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Was and were.\nI was busy yesterday. They were busy yesterday.\nShe ___ tired yesterday: was ya were? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I was busy yesterday. They were busy yesterday. Today’s word: Earlier — before now or before another time. Example: I called earlier. #SpeakX",
+    "xEvening": "Sia practice: She ___ tired yesterday: was ya were? Hint: I was busy yesterday. They were busy yesterday. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: She ___ tired yesterday: was ya were? 2) Tap for model: I was busy yesterday. They were busy yesterday. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I was busy yesterday. They were busy yesterday.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching was and were; captions show: I was busy yesterday. They were busy yesterday.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-28",
+    "date": "2026-10-28",
+    "day": "Wednesday",
+    "show": "Ek ya Anek Wednesday",
+    "topic": "The news is: singular agreement",
+    "level": "B1",
+    "hook": "News ke end mein s, phir bhi is kyun?",
+    "target": "The news is good.",
+    "word": "Update",
+    "meaning": "nayi jaankari; the latest information",
+    "example": "Thank you for the update.",
+    "location": "Virtual empty office lounge",
+    "duration": 45,
+    "script": "News ke end mein s, phir bhi is kyun? Hi, main Sia! News singular agreement leta hai. The news is good. [❌ WRONG: The news are good.] [❌ WRONG: One news.] Ek khabar: a piece of news. I have a piece of news. Bolke dekho: The news is good. [2-second pause] Aaj ka word: Update. nayi jaankari. Thank you for the update. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "The news ___ surprising: is ya are?",
+    "instagram": "News ke end mein s, phir bhi is kyun?\nThe news is good.\nThe news ___ surprising: is ya are?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: The news is: singular agreement.\nThe news is good.\nThe news ___ surprising: is ya are? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: The news is good. Today’s word: Update — the latest information. Example: Thank you for the update. #SpeakX",
+    "xEvening": "Sia practice: The news ___ surprising: is ya are? Hint: The news is good. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: The news ___ surprising: is ya are? 2) Tap for model: The news is good. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: The news is good.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual empty office lounge, teaching the news is: singular agreement; captions show: The news is good.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 57,
+    "estimatedSpeechSeconds": 35.7,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-29",
+    "date": "2026-10-29",
+    "day": "Thursday",
+    "show": "Baat-Cheet Thursday",
+    "topic": "Disagree politely in a meeting",
+    "level": "B2",
+    "hook": "Meeting mein alag opinion? Respect ke saath bolo.",
+    "target": "I see your point, but I would suggest a different approach.",
+    "word": "Perspective",
+    "meaning": "nazariya; a way of thinking about something",
+    "example": "That is an interesting perspective.",
+    "location": "Virtual meeting room",
+    "duration": 45,
+    "script": "Meeting mein alag opinion? Respect ke saath bolo. Hi, main Sia! Aaj meeting room mein politely disagree karna seekhenge. [TEXT ONLY: Launch everything tomorrow?] I see your point, but I would suggest testing one part first. Pehle acknowledge karo, phir alternative do. Bolke dekho: Could we consider a smaller trial? [2-second pause] Aaj ka word: Perspective. nazariya. That is an interesting perspective. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "Apna polite alternative likho.",
+    "instagram": "Meeting mein alag opinion? Respect ke saath bolo.\nI see your point, but I would suggest a different approach.\nApna polite alternative likho.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Disagree politely in a meeting.\nI see your point, but I would suggest a different approach.\nApna polite alternative likho. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I see your point, but I would suggest a different approach. Today’s word: Perspective — a way of thinking about something. Example: That is an interesting perspective. #SpeakX",
+    "xEvening": "Sia practice: Apna polite alternative likho. Hint: I see your point, but I would suggest a different approach. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: Apna polite alternative likho. 2) Tap for model: I see your point, but I would suggest a different approach. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "OFC",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I see your point, but I would suggest a different approach.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual meeting room, teaching disagree politely in a meeting; captions show: I see your point, but I would suggest a different approach.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 62,
+    "estimatedSpeechSeconds": 38.4,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-30",
+    "date": "2026-10-30",
+    "day": "Friday",
+    "show": "Sentence Banao Friday",
+    "topic": "Make a plan with going to",
+    "level": "A2",
+    "hook": "Kal ka plan English mein kaise bolo?",
+    "target": "I am going to practise tomorrow.",
+    "word": "Prepare",
+    "meaning": "taiyaari karna; get ready for something",
+    "example": "I prepare before an interview.",
+    "location": "Virtual study room",
+    "duration": 45,
+    "script": "Kal ka plan English mein kaise bolo? Hi, main Sia! Plan: am, is, are plus going to plus base verb. I am going to practise tomorrow. She is going to study tonight. [❌ WRONG: I going to practise.] Am mat bhoolo. Bolke dekho: I am going to practise tomorrow. [2-second pause] Aaj ka word: Prepare. taiyaari karna. I prepare before an interview. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I am going to ___ tomorrow complete karo.",
+    "instagram": "Kal ka plan English mein kaise bolo?\nI am going to practise tomorrow.\nI am going to ___ tomorrow complete karo.\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Make a plan with going to.\nI am going to practise tomorrow.\nI am going to ___ tomorrow complete karo. Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I am going to practise tomorrow. Today’s word: Prepare — get ready for something. Example: I prepare before an interview. #SpeakX",
+    "xEvening": "Sia practice: I am going to ___ tomorrow complete karo. Hint: I am going to practise tomorrow. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I am going to ___ tomorrow complete karo. 2) Tap for model: I am going to practise tomorrow. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "19:30",
+    "timeFB": "20:00",
+    "status": "Planned",
+    "locationCode": "EDU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I am going to practise tomorrow.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in virtual study room, teaching make a plan with going to; captions show: I am going to practise tomorrow.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 61,
+    "estimatedSpeechSeconds": 37.9,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  },
+  {
+    "id": "SIA-2026-10-31",
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "show": "Galti Pakdo Saturday",
+    "topic": "Month-end spot the error",
+    "level": "A2",
+    "hook": "October ka last challenge: I am agree?",
+    "target": "I agree.",
+    "word": "Improve",
+    "meaning": "behtar banana; become or make something better",
+    "example": "I want to improve my English.",
+    "location": "Pale-blue studio",
+    "duration": 45,
+    "script": "October ka last challenge: I am agree? Hi, main Sia! [❌ WRONG: I am agree.] Sahi: I agree. Agree verb hai, am nahi chahiye. I agree with you. We agree on the plan. Disagreement: I do not agree. Bolke dekho: I agree. [2-second pause] Aaj ka word: Improve. behtar banana. I want to improve my English. Apna sentence comment karo. Kal milte hain!",
+    "audio": "Sia_v1 approved voice only; neutral Indian English, warm Hinglish; target at slower pace; 2-second practice pause; soft original/licensed instrumental at -24 LUFS under speech; one gentle correct-answer chime; no second voice.",
+    "cta": "I ___ with you: am agree ya agree?",
+    "instagram": "October ka last challenge: I am agree?\nI agree.\nI ___ with you: am agree ya agree?\n#SpeakX #EnglishSeekho #SiaSikhaatiHai",
+    "facebook": "Sia ke saath aaj: Month-end spot the error.\nI agree.\nI ___ with you: am agree ya agree? Ek baar bolkar practice karo. Muh khol. English bol! #SpeakX",
+    "xMorning": "English tip: I agree. Today’s word: Improve — become or make something better. Example: I want to improve my English. #SpeakX",
+    "xEvening": "Sia practice: I ___ with you: am agree ya agree? Hint: I agree. #SpeakX",
+    "story": "13:00 IST, 3 frames: 1) Quiz: I ___ with you: am agree ya agree? 2) Tap for model: I agree. 3) Reply with your sentence; Sia still/short loop only. No learner faces or voices.",
+    "timeIG": "11:00",
+    "timeFB": "11:30",
+    "status": "Planned",
+    "locationCode": "STU",
+    "mapPinStatus": "Awaiting map",
+    "hookOptionB": "Sia ke saath bolo: I agree.",
+    "visualDirections": "Only Sia visible and speaking; counterpart prompts remain silent text. Character-board face, hair and grey outfit locked. Every incorrect phrase, including a hook, has a red ❌ WRONG overlay from first appearance; corrected form uses green ✅. Quiz blanks are labelled PRACTICE, never shown as model English. Romanized Hinglish subtitles, safe lower-middle placement; keep bottom 20% and right 12% clear. Supplied logo only on end card. Map pin unconfirmed: use approved virtual set.",
+    "altText": "Sia in pale-blue studio, teaching month-end spot the error; captions show: I agree.",
+    "beatPlan": [
+      {
+        "t": "0–4s",
+        "spoken": "Hook; visibly mark any incorrect example ❌ WRONG."
+      },
+      {
+        "t": "4–7s",
+        "spoken": "Sia introduces herself; show weekday series lower-third."
+      },
+      {
+        "t": "7–27s",
+        "spoken": "One teaching idea and examples; silent counterpart cards in dialogue; Sunday includes three one-second answer pauses."
+      },
+      {
+        "t": "27–34s",
+        "spoken": "Model target slowly; leave two seconds for repetition."
+      },
+      {
+        "t": "34–41s",
+        "spoken": "Daily word, Hindi meaning and example; Monday uses this time for full-word reinforcement."
+      },
+      {
+        "t": "41–45s",
+        "spoken": "One short practice CTA and Sia sign-off; exact SpeakX end card."
+      }
+    ],
+    "spokenWordCount": 56,
+    "estimatedSpeechSeconds": 35.1,
+    "timingNotes": "Estimate uses 1.8 spoken words/second, explicit practice/quiz pauses and 2 seconds for transitions. Bracketed directions and silent cards are excluded. Add quiet reading/answer holds to reach 35–45 seconds; final render must stay ≤45 seconds. Slow target English further using available headroom; do not accelerate it."
+  }
+]
