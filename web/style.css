@@ -5,3 +5,5 @@ nav{max-height:calc(100vh - 210px);overflow-y:auto}nav a{font-size:14px;padding:
 .dialog-feedback{position:sticky;top:0;z-index:5;padding:14px 24px;background:#fff2da;color:#68430a;border-bottom:1px solid #ebd3a8;font-weight:600;line-height:1.5}
 
 .provider-setup input:not([type=checkbox]){width:100%}.provider-setup details{margin:18px 0}.setup-consent{line-height:1.6}.connection-result{padding:14px 0;border-bottom:1px solid var(--line);margin-bottom:16px}#providerSettingsMessage:not(:empty){padding:12px;background:#fff4e5;border-radius:6px;margin:12px 0}.setup-error{color:#a22}hr{border:0;border-top:1px solid var(--line);margin:24px 0}
+
+.sia-library{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:20px}.sia-reference{border:1px solid var(--border,#ddd);border-radius:12px;overflow:hidden}.sia-reference img{display:block;width:100%;height:240px;object-fit:contain;background:#111}.sia-reference>div{padding:16px}.sia-reference h3{margin-top:0}.sia-reference small{display:block}.sia-picker{padding:16px 0;border-top:1px solid #ddd;margin-top:16px}.sia-picker select{max-width:100%;display:block;margin:8px 0}

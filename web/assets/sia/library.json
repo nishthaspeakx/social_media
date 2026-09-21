@@ -1,0 +1,51 @@
+{
+  "received": "2026-09-22",
+  "rights": "Commercial Sia rights confirmed by owner in conversation.",
+  "backgroundPolicy": "Background, lighting, props and framing may change per video. Preserve Sia identity and chosen outfit; Sia is the only person and voice.",
+  "assets": [
+    {
+      "id": "front",
+      "file": "sia-front.png",
+      "originalFilename": "Screenshot 2026-09-21 at 23.48.40.png",
+      "width": 1144,
+      "height": 872,
+      "sha256": "9c5c174da7ce6e0780d743327a6bf01488e2816e32e6260205067e250a6aeec2",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Single-person source reference; prepare aspect ratio and background for final scene."
+    },
+    {
+      "id": "profile",
+      "file": "sia-profile.png",
+      "originalFilename": "Screenshot 2026-09-21 at 23.53.31.png",
+      "width": 1154,
+      "height": 642,
+      "sha256": "c97da3f10c8061e6072af4b8880279fe51e7862d1dbcc7e7da487d102ff9ae0c",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Single-person source reference; prepare aspect ratio and background for final scene."
+    },
+    {
+      "id": "office",
+      "file": "sia-office.png",
+      "originalFilename": "Screenshot 2026-09-21 at 23.56.50.png",
+      "width": 1148,
+      "height": 642,
+      "sha256": "e506bc67ad9729d361846eadf8be7ffc07495f468f246187da5bddd2a5ce5689",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Single-person source reference; prepare aspect ratio and background for final scene."
+    },
+    {
+      "id": "expressions",
+      "file": "sia-expressions.png",
+      "originalFilename": "Screenshot 2026-09-21 at 23.56.59.png",
+      "width": 1142,
+      "height": 630,
+      "sha256": "2768f2cb99281f1903cf1f1b22709dc174c5f8cdc89000d13ba3c270730b79f8",
+      "transparent": false,
+      "singlePresenter": false,
+      "usage": "Expression direction only; never use whole sheet as a generation frame."
+    }
+  ]
+}
