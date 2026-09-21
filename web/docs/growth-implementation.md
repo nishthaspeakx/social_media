@@ -59,3 +59,9 @@ Instagram's bio recommends15minutes/day, Facebook/X10minutes/day. Align the usag
 Source UI: web/. Server: server/worker.js. Build embeds private assets in a Worker;D1 holds structured state and R2 holds media. Schema:db/schema.ts with generatedDrizzle migrations. Local preview uses separate localD1/R2 and a localhost-only test identity. Production uses hosting-authenticated headers and server role checks. Static browser state from the prior prototype is not an authoritative database.
 
 Required next adapters: social OAuth +publish/insights; scheduler/queue consumer; speech timing/forcedalignment and caption renderer; finalmedia validation; signed callback handling with provider-side verification; granular member provisioning UI; analytics export normalization per platform. Add monitoring on stalejobs,credentialexpiry,spend,duplicateattempts,storageerrors and publishstatus. Test rollback, recovery and accountdisconnect before launch.
+
+## Provider setup update
+
+The Connections screen now includes an owner-only encrypted credential form, read-only connection checks and a short Sia test shortcut. The server stores authenticated encrypted credentials in provider_settings, with optimistic revision checks. A separate PROVIDER_VAULT_KEY hosting secret protects them. The app checks Kie credit balance and Cartesia voice access before generation, and limits this initial setup to one short test job (at most 40 script words / 15 planned seconds). Editing settings cannot reset the allowance.
+
+While the studio remains open, it advances the existing durable job through voice synthesis, uploads, video creation and polling. Closing the tab pauses client-driven advancement; Resume checks the same existing job. This is not yet an unattended scheduler. Caption finishing and social publishing remain future integrations.

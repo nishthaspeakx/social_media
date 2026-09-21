@@ -38,3 +38,8 @@ For each platform attach: account owner, account type, granted scopes, app revie
 [Cartesia bytes TTS](https://docs.cartesia.ai/api-reference/tts/bytes): server-authenticated speech synthesis, distinct voiceID and APIversion. No arbitrary voice is substituted for Sia. Hindi/English code switching needs a pronunciation and timing test. Speech and video generation are gated off until credentials and production cap are set.
 
 YouTube Shorts has been added to the30-day campaign. Use separate starts/replays and engaged-view definitions; feed selection rate is not thumbnail CTR. Exact native publishing/analytics permissions and metrics must be verified with the connected account before launch. No legacy31-day counts or X cost estimate should be used for this30-day plan.
+
+Provider setup checks, verified 21 September 2026:
+- Kie credits: GET https://api.kie.ai/api/v1/chat/credit, Bearer authentication. https://docs.kie.ai/common-api/get-account-credits
+- Cartesia voice: GET https://api.cartesia.ai/voices/{id}, Bearer authentication and Cartesia-Version: 2026-08-14. Only an active matching voice passes. https://docs.cartesia.ai/api-reference/voices/get
+- These checks create no speech or video. A successful connection check is not a generation price quote.
