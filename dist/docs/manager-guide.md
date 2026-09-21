@@ -46,3 +46,7 @@ Monday: inspect comparable prior-week results and approve one experiment. Tuesda
 ## Required inputs before production launch
 
 Approved Sia voice/source video and provenance/consent record; map asset rights and accepted location pins; approved brand claims and destination links; social account ownership and app access; named primary/backup approvers; a production repository and deployment owner; media/API budget; reporting conversion events and privacy/retention rules. Missing accounts or media leave the relevant job blocked rather than fabricating success.
+
+
+## Creative mix update
+The canonical October mix is 20 Sia-only studio episodes and 11 Sia-only location episodes. Only the five Thursday episodes include a one-second map pin reveal after the initial hook; six location episodes use no map. No permanent map overlay. Each episode gives its answer and a complete learning takeaway. Read creative-direction.md and each calendar record’s settingMode, mapReveal, retentionDevice and nextEpisodeTease.
