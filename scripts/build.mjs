@@ -6,8 +6,10 @@ async function walk(dir){for(const e of await fs.readdir(dir,{withFileTypes:true
 await walk('web');
 await fs.rm('dist',{recursive:true,force:true});
 await fs.mkdir('dist/server',{recursive:true});await fs.mkdir('dist/.openai',{recursive:true});
-const phase1=(await fs.readFile('server/phase1.js','utf8')).replace(/^export /gm,'');
-const server=phase1+'\n'+(await fs.readFile('server/worker.js','utf8')).replace(/^import .*from '\.\/phase1\.js';\n/m,'');
+const shared=(await fs.readFile('web/reel-tools.js','utf8')).replace(/^export /gm,'');
+const mp4=(await fs.readFile('server/mp4.js','utf8')).replace(/^export /gm,'');
+const phase1=(await fs.readFile('server/phase1.js','utf8')).replace(/^export /gm,'').replace(/^import .*;\n/gm,'');
+const server=shared+'\n'+mp4+'\n'+phase1+'\n'+(await fs.readFile('server/worker.js','utf8')).replace(/^import .*from '\.\/phase1\.js';\n/m,'');
 await fs.writeFile('dist/server/index.js','const ASSETS='+JSON.stringify(assets)+';\n'+server);
 await fs.writeFile('dist/.openai/hosting.json',await readAsset('.openai/hosting.json')); 
 await fs.mkdir('dist/.openai/drizzle',{recursive:true});
