@@ -25,3 +25,6 @@ Technical tests: 27 focused tests pass. Format checks parse actual standard/frag
 The generation source is Kling Avatar Standard, reframed/upscaled during final composition to1080×1920. This is not a claim of native1080 source detail. No music is added, preserving clear continuous Sia speech. No social publication is part of this pilot.
 
 Confirmed job snapshot: complete script and full immutable scriptSnapshot exactly match saved V5. Narration 16.96s. B-roll actual timing 2.759–4.959s, 7.783–9.983s, 10.683–12.883s. Ten caption cues span0.10606459–16.84s and exactly preserve the script words/punctuation. Refresh recovery retains the same job/provider task.
+
+## First finished export — retained visual failure
+FinalVideo3 ID163fafc4-8ea2-4e09-8f77-ff9c318211f3: downloaded in Chrome, decoded end-to-end, H2641080×1920, AAC2channels,16.978033s, average50.69FPS. Browser completedplayback16.944733s ended=true,error=null. Three teachingcards and full captions verified across0–16s frame sheet. VisualFAIL: hallucinated text on lower shirt. Reviewcomment saved; no approval. Correctiveedit:25% lower-sourcecrop, samevoice, sameexactV5 andcaptiontext. First localrender startup drifted and stoppedwithoutfile; second succeeded; boundedstartup synchronization fix prepared withtimingdiagnostics.
