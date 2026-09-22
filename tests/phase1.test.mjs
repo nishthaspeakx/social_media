@@ -92,3 +92,13 @@ test('Kling recovery preserves the failed take, reuses full audio, enforces limi
   const queued=await(await call('jobs/'+next.id+'/advance','POST',{})).json();assert.equal(queued.stage,'poll');assert.equal(queued.provider_id,'kling-full-123');assert.equal(videoCalls,1);
  }finally{globalThis.fetch=original;sql.close()}
 });
+test('completed Kie video on its documented temporary host is saved without another paid request',async()=>{
+ const {call,sql,files}=fixture(),original=globalThis.fetch;let downloads=0;
+ try{
+  const v=await(await call('versions','POST',draft)).json(),j=await(await call('jobs','POST',{versionId:v.id,requestId:crypto.randomUUID()})).json();
+  const body={...j.body,providerModel:'kling/ai-avatar-standard',clips:[{index:0,taskId:'existing-task',status:'Generating'}],clipIndex:0};
+  sql.prepare("UPDATE jobs SET status='Generating',stage='poll',provider_id=?,body=? WHERE id=?").run('existing-task',JSON.stringify(body),j.id);
+  globalThis.fetch=async(url,options)=>{if(String(url).includes('/recordInfo?'))return Response.json({code:200,data:{taskId:'existing-task',state:'success',resultJson:JSON.stringify({resultUrls:['https://tempfile.aiquickdraw.com/video.mp4']})}});assert.equal(url,'https://tempfile.aiquickdraw.com/video.mp4');assert.equal(options.redirect,'manual');downloads++;return new Response(new Uint8Array(100),{headers:{'Content-Type':'video/mp4','Content-Length':'100'}});};
+  const done=await(await call('jobs/'+j.id+'/advance','POST',{})).json();assert.equal(done.status,'Completed');assert.equal(downloads,1);assert.ok(files.has(done.body.mediaKey));
+ }finally{globalThis.fetch=original;sql.close();}
+});

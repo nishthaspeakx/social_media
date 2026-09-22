@@ -9,6 +9,7 @@ await fs.mkdir('dist/server',{recursive:true});await fs.mkdir('dist/.openai',{re
 const phase1=(await fs.readFile('server/phase1.js','utf8')).replace(/^export /gm,'');
 const server=phase1+'\n'+(await fs.readFile('server/worker.js','utf8')).replace(/^import .*from '\.\/phase1\.js';\n/m,'');
 await fs.writeFile('dist/server/index.js','const ASSETS='+JSON.stringify(assets)+';\n'+server);
-await fs.copyFile('.openai/hosting.json','dist/.openai/hosting.json');
-await fs.cp('drizzle','dist/.openai/drizzle',{recursive:true});
+await fs.writeFile('dist/.openai/hosting.json',await readAsset('.openai/hosting.json')); 
+await fs.mkdir('dist/.openai/drizzle',{recursive:true});
+for(const file of await fs.readdir('drizzle'))if(file.endsWith('.sql'))await fs.writeFile('dist/.openai/drizzle/'+file,await readAsset('drizzle/'+file));
 console.log('Built SpeakX worker with',Object.keys(assets).length,'private assets');
