@@ -425,9 +425,158 @@
       "accessed": "2026-09-21",
       "type": "Primary source inspected by parent agent",
       "supports": "Use-case categories and seven-native-language positioning; not independently verified outcome claims"
+    },
+    {
+      "id": "SEEKHO-META",
+      "title": "Seekho India active ads",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=100124665182099",
+      "checked": "2026-09-22",
+      "evidenceType": "Primary source; observation, not performance verification"
+    },
+    {
+      "id": "STIMULER-META",
+      "title": "Stimuler India active ads",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=106859035554967",
+      "checked": "2026-09-22",
+      "evidenceType": "Primary source; observation, not performance verification"
+    },
+    {
+      "id": "CLAPINGO-META",
+      "title": "Clapingo India active ads",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=110808047121086",
+      "checked": "2026-09-22",
+      "evidenceType": "Primary source; observation, not performance verification"
+    },
+    {
+      "id": "STIMULER-SITE",
+      "title": "Stimuler official practice and feedback product",
+      "url": "https://stimuler.tech/",
+      "checked": "2026-09-22",
+      "evidenceType": "Primary source; observation, not performance verification"
+    },
+    {
+      "id": "ELSA-SITE",
+      "title": "ELSA official roleplay and feedback product",
+      "url": "https://elsaspeak.com/en",
+      "checked": "2026-09-22",
+      "evidenceType": "Primary source; observation, not performance verification"
     }
   ],
   "competitors": [
+    {
+      "name": "Seekho App",
+      "platform": "Meta Ads Library · India · active ads",
+      "positioning": "Everyday learning in familiar languages; English is one of many categories",
+      "audience": "Hindi and regional-language learners; broad practical-learning audience",
+      "observedAt": "2026-09-22",
+      "sourceUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=100124665182099",
+      "observedFormat": "Video cards include 45–109 second examples; English-specific examples inspected at 48 and 89 seconds. The 89-second creative opened with a human-faced robot at a microphone.",
+      "observedHook": "Repeated copy contrasts scrolling with useful learning; English cards emphasize speaking confidence and remove the degree barrier.",
+      "evidence": [
+        {
+          "adId": "3657870504382069",
+          "started": "2026-09-02",
+          "duration": "89 seconds",
+          "observation": "English-speaking confidence copy; Install now CTA; opening frame visually inspected.",
+          "url": "https://www.facebook.com/ads/library/?id=3657870504382069"
+        },
+        {
+          "adId": "3143690285841451",
+          "started": "2026-06-29",
+          "duration": "48 seconds",
+          "observation": "Telugu English-learning copy removes a college-degree objection; video card and text inspected.",
+          "url": "https://www.facebook.com/ads/library/?id=3143690285841451"
+        },
+        {
+          "adId": "1987598978617262",
+          "started": "2026-09-02",
+          "duration": "75 seconds",
+          "observation": "Hindi/Hinglish useful-learning-versus-scrolling message, also seen on multiple other cards.",
+          "url": "https://www.facebook.com/ads/library/?id=1987598978617262"
+        }
+      ],
+      "whatToTest": "One familiar situation, one useful sentence, one spoken response. Replace guilt about scrolling with an immediate useful reward.",
+      "siaAdaptation": "Sia at an interview room: “Interview mein pehli line atak jaati hai? Mere saath bolo: My name is __.” Then a 2-second response pause.",
+      "avoid": "Do not copy the robot identity, other presenters, broad multi-category promise or implied guaranteed transformation. Sia remains the sole presenter.",
+      "performanceStatus": "Creative patterns observed; CTR, retention, spend, installs and ROAS unavailable. Active longevity does not establish profitability.",
+      "sampleLimit": "Approximately 820 results displayed, not 820 audited ads or an organic posting count. Reviewed a visible convenience sample; no exhaustive feed or full-video transcript audit."
+    },
+    {
+      "name": "Stimuler",
+      "platform": "Meta Ads Library + official product site",
+      "positioning": "AI speaking practice with instant feedback and an always-available coach",
+      "audience": "Learners who understand English but hesitate while speaking; IELTS/career learners",
+      "observedAt": "2026-09-22",
+      "sourceUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=106859035554967",
+      "observedFormat": "Many sampled cards around 36–59 seconds; additional 23–25-second cards. Repeated copy, multiple creative variants and named creator partnerships. A 59-second opening showed a close-up creator, microphone and prominent text.",
+      "observedHook": "Speaking hesitation, slow progress and practice/feedback; a separate angle contrasts app streaks with speaking ability.",
+      "evidence": [
+        {
+          "adId": "1373260911320164",
+          "started": "2026-06-17",
+          "duration": "59 seconds",
+          "observation": "Grammar/vocabulary feedback and 24/7 coach message. Opening creator frame and captions visually inspected.",
+          "url": "https://www.facebook.com/ads/library/?id=1373260911320164"
+        },
+        {
+          "adId": "1392765549704372",
+          "started": "2026-09-11",
+          "duration": "44 seconds",
+          "observation": "Hinglish understanding-versus-speaking hesitation copy; instant-feedback CTA.",
+          "url": "https://www.facebook.com/ads/library/?id=1392765549704372"
+        },
+        {
+          "adId": "1386587496947934",
+          "started": "2026-08-24",
+          "duration": "40 seconds",
+          "observation": "Streak-versus-speaking objection; daily speaking practice.",
+          "url": "https://www.facebook.com/ads/library/?id=1386587496947934"
+        },
+        {
+          "adId": "1712069076678699",
+          "started": "2026-09-10",
+          "duration": "36 seconds",
+          "observation": "Creator partnership with english_wali_didi_ and authority-led copy. Partnership visible; results unknown.",
+          "url": "https://www.facebook.com/ads/library/?id=1712069076678699"
+        }
+      ],
+      "whatToTest": "Demonstrate a correction immediately, then invite the viewer to say the corrected line; test a relatable hesitation hook against a neutral lesson title.",
+      "siaAdaptation": "Only Sia: “Meeting mein idea hai, par line nahi? Try: I would like to suggest…” Show the phrase by second 3, then a practice pause.",
+      "avoid": "Do not borrow their awards, endorsements, customer results, native-accent promises or 30-day outcome claims. Show SpeakX product feedback only when it is real and verified.",
+      "performanceStatus": "Repeated deployment is a testing signal, not measured success. No competitor CTR, retention, CPA or revenue available.",
+      "sampleLimit": "Approximately 54 results displayed. Selected card copy and one opening frame inspected; not all videos watched end-to-end."
+    },
+    {
+      "name": "Clapingo",
+      "platform": "Meta Ads Library · India · active ads",
+      "positioning": "Judgment-free one-to-one speaking practice with experts",
+      "audience": "Working professionals, students and other adults seeking speaking confidence",
+      "observedAt": "2026-09-22",
+      "sourceUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&view_all_page_id=110808047121086",
+      "observedFormat": "Five visible cards with repeated long-form copy; sampled durations 84, 88 and 95 seconds.",
+      "observedHook": "Frustration with previous learning attempts, reassurance, and a low-friction trial offer.",
+      "evidence": [
+        {
+          "adId": "492496502955623",
+          "started": "2023-01-15",
+          "duration": "95 seconds",
+          "observation": "One-to-one judgment-free practice and ₹99 trial advertised. Meta labels this card low impression count / <100.",
+          "url": "https://www.facebook.com/ads/library/?id=492496502955623"
+        },
+        {
+          "adId": "889729842224503",
+          "started": "2023-01-15",
+          "duration": "88 seconds",
+          "observation": "Same trial-led copy; low impression count shown.",
+          "url": "https://www.facebook.com/ads/library/?id=889729842224503"
+        }
+      ],
+      "whatToTest": "Reassurance before a speaking challenge; a specific next practice step after the lesson.",
+      "siaAdaptation": "“Galti ho sakti hai. Pehle yeh line mere saath bolo.” Sia models a café request, waits, and invites another attempt.",
+      "avoid": "Do not copy the historical ₹99 offer, guaranteed fast results or customer-count claims. SpeakX pricing and trial terms must be verified separately.",
+      "performanceStatus": "Active status and a 2023 start date are not evidence of sustained budget or strong performance. Visible <100 impressions must not be called a winning ad.",
+      "sampleLimit": "Page-specific five-card sample; other brand pages may have different campaigns. Offer landing page not verified; text/card review, not full video review."
+    },
     {
       "name": "English Connection",
       "platform": "YouTube; Instagram/Facebook linked in official description",
@@ -1975,5 +2124,61 @@
     "conversionTest": "Profile-to-link path: clarify speaking outcome and match pinned post to approved landing page. Current mixed-scope link-taps/profile-visits ratio is1.758%; do not claim a unique-person conversion rate.",
     "brandConsistency": "IG says15mins/day;FB andX say10mins/day. Align to an approved product usage promise; no guaranteed fluency.",
     "noPaidAction": "Existing ad activity was observed; no ads were created or changed. This campaign remains organic-only."
+  },
+  "competitorTests": [
+    {
+      "priority": "1 · Start here",
+      "pattern": "Specific speaking block → immediate useful line",
+      "basis": "Stimuler hesitation copy + SpeakX interview/office audience fit",
+      "hookA": "Interview mein pehli line atak jaati hai?",
+      "hookB": "Apna introduction English mein do lines mein bolo.",
+      "execution": "0–2s Sia hook; 2–7s model answer; 7–10s 2-second practice pause; 10–20s substitute your name/role; 20–25s recap and save CTA.",
+      "calendarFit": "Oct 1 introduction; Oct 8 meeting requests; use as alternate drafts, keep approved scripts unchanged.",
+      "primaryMetric": "3-second hold where available; YouTube viewed-vs-swiped separately",
+      "guardrail": "Completion/APV and saves per reached account; compare only same platform and observation window."
+    },
+    {
+      "priority": "2 · Teach through feedback",
+      "pattern": "One common error → correction → say it again",
+      "basis": "Stimuler and ELSA feedback positioning; product benefit made visible",
+      "hookA": "“I am agree” ya “I agree”?",
+      "hookB": "Meeting mein agree karne ki simple line.",
+      "execution": "Sia only, text choices, 2-second thinking gap, natural correction, one new example. Do not fabricate a learner or score.",
+      "calendarFit": "Grammar and Saturday correction slots in the existing 30-day plan.",
+      "primaryMetric": "Completion/APV and saves per reach",
+      "guardrail": "Confused/negative comments and incorrect language; no shaming."
+    },
+    {
+      "priority": "3 · Make practice feel safe",
+      "pattern": "Warm reassurance + low-pressure speaking turn",
+      "basis": "Clapingo judgment-free positioning",
+      "hookA": "Galti ho sakti hai. Mere saath ek line bolo.",
+      "hookB": "Café mein yeh line try karo.",
+      "execution": "Only Sia; demonstrate one request, pause 2 seconds, repeat with one substitution. Optional location background, no map intro.",
+      "calendarFit": "Café/restaurant and beginner-confidence days.",
+      "primaryMetric": "Follows per reach and repeat-view signals where available",
+      "guardrail": "Track 72-hour completion; do not confuse likes with app activation."
+    },
+    {
+      "priority": "4 · Small daily payoff",
+      "pattern": "One episode = one usable result",
+      "basis": "Seekho repeated useful-learning and regional-language messages",
+      "hookA": "Aaj ki ek line, kal ki meeting mein kaam aayegi.",
+      "hookB": "Could you repeat that? Yeh line kab bolni hai?",
+      "execution": "20–30s consistent Sia series; recurring title; show useful phrase before branding; end with tomorrow’s related situation.",
+      "calendarFit": "Vocabulary/sentence-structure episodes; Sia studio is sufficient when location adds no value.",
+      "primaryMetric": "7-day returning viewers where available; saves per reach",
+      "guardrail": "Use native definitions per platform; follow counts are not a substitute for returning viewers."
+    }
+  ],
+  "competitorResearchMethod": {
+    "reviewedAt": "2026-09-22",
+    "market": "India · active commercial ads",
+    "ranking": "Priorities are editorial recommendations for SpeakX, not a competitor performance ranking.",
+    "unknown": "Ad spend, CTR, conversion rate, retention curves, profit and organic reach are not available for these sampled ads. The sort URL parameter does not supply those metrics.",
+    "decisionRule": "Run organic tests first. Change only the hook in matched pairs; use the same presenter, lesson, duration band and CTA. Record results at 24h, 72h and 7d. Require at least 3 comparable posts per variant on each platform; if reach is sparse or results conflict, mark inconclusive. Prefer a repeatable lift in the primary metric without harm to completion or saves.",
+    "paidVsOrganic": "Ad mechanisms are inspiration. Organic success must be established on SpeakX accounts; do not copy paid ad lengths or install CTAs into every Reel.",
+    "formatMix": "Use location when it explains a speaking task. Otherwise use close-up Sia teaching. Maps are occasional orientation devices, never a required opener.",
+    "weeklyReview": "Record new ad ID, start date, message, duration, CTA, language and exact source. Track repeat appearances without treating longevity as proof. Promote, revise or stop SpeakX variants using its own measured outcomes."
   }
 }
