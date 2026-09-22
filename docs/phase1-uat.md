@@ -15,6 +15,9 @@ Implemented; real-provider acceptance remains pending. Do not call the system fu
 ## Live issue reproduced
 Both connection checks failed before any generation. Cloudflare/workerd rejects `redirect: 'error'` in this deployed runtime. A local real runtime probe reproduced the exact TypeError. Provider requests now use `manual`; non-success responses, including redirects, are rejected before processing. Credentials are not forwarded to redirect destinations.
 
+## Live verification update
+Both saved connections passed after the redirect fix. A single short Sia test was requested from Script V3. Cartesia synthesis and Kie task submission succeeded; the job reached the provider polling stage, then Kie returned Failed. The saved voice is preserved. A read-only provider-status diagnostic retrieves the failure without creating another paid task. No finished Sia video is available; final video review remains pending.
+
 ## Required real acceptance test
 1. Check saved connections in Connections.
 2. Prepare the short Sia test and review a single-person reference.

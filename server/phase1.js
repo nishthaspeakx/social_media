@@ -44,6 +44,8 @@ async function p1tts(env,j){
  if(!words.length||words.some((w,i)=>!Number.isFinite(w.start)||!Number.isFinite(w.end)||w.start<0||w.end<w.start||w.end>duration+.5||(i&&w.start<words[i-1].start)))p1error('Reliable word timestamps are missing; reconcile the voice take before retrying.',502);
  return {pcm,duration,words};
 }
+
+function p1providerFailure(data,env){let message=String(data?.failMsg||data?.errorMessage||'Provider did not return a failure message.');for(const key of [env.KIE_API_KEY,env.CARTESIA_API_KEY])if(key)message=message.split(key).join('[redacted]');message=message.replace(/https?:\/\/\S+/g,'[provider URL]').slice(0,1000);return {code:String(data?.failCode||'unknown').slice(0,100),message,checkedAt:p1now()};}
 async function p1advance(db,env,j,h){
  if(['Completed','Failed','Held'].includes(j.status))return j;
  if(j.status==='Processing'){if(Date.now()-Date.parse(j.updated_at)>120000)return p1job(db,j,{status:'Held',body:{error:'This step was interrupted. Check provider usage/task status before resuming; no paid request will be repeated automatically.'}});return j;}
@@ -73,7 +75,7 @@ async function p1advance(db,env,j,h){
  }
  if(j.stage==='poll'){
   const taskId=clip.taskId||j.provider_id;if(!taskId)p1error('Provider task ID is missing.',409);const d=await h.providerJson('https://api.kie.ai/api/v1/jobs/recordInfo?taskId='+encodeURIComponent(taskId),{headers:{Authorization:'Bearer '+env.KIE_API_KEY}});if(d.data?.taskId&&d.data.taskId!==taskId)p1error('Provider task does not match the saved clip.',502);
-  if(d.data?.state==='fail'){clip.status='Failed';return p1job(db,j,{status:'Failed',body:{clips,error:'Kie reported failure for clip '+(index+1)+'. Check the provider task before generating a new take.'}});}
+  if(d.data?.state==='fail'){clip.status='Failed';return p1job(db,j,{status:'Failed',body:{clips,providerFailure:p1providerFailure(d.data,env),error:'Kie failed for clip '+(index+1)+': '+p1providerFailure(d.data,env).message}});}
   if(d.data?.state!=='success')return p1job(db,j,{status:'Generating'});
   let urls;try{urls=JSON.parse(d.data.resultJson).resultUrls}catch{p1error('Provider result could not be read.',502)}if(!urls?.length||!h.approvedProviderUrl(urls[0]))p1error('Provider media host requires verification.',502);
   const r=await fetch(urls[0],{redirect:'manual',signal:AbortSignal.timeout(55000)});if(!r.ok||!r.headers.get('content-type')?.startsWith('video/'))p1error('Completed video could not be downloaded. Resume this task; do not create another take.',502);
@@ -117,6 +119,8 @@ export async function handlePhase1(request,env,user,db,h){
   const jid=p1id(),stamp=p1now(),snapshot={phase1:true,scriptVersionId:v.id,scriptVersionNumber:v.body.versionNumber||null,lessonId:v.lesson_id,script:script.script,prompt:script.prompt,language:script.language,referenceKey:script.referenceKey,scenes:script.scenes,requestId:b.requestId,maxSeconds:budget.maxSeconds,review:phase1Review(script),outputKind:'Awaiting Sia voice',timeline:[{at:stamp,status:'Queued',stage:'voice'}]};
   const r=await db.prepare("INSERT INTO jobs(id,version_id,idempotency_key,status,stage,body,created_at,updated_at) SELECT ?,?,?,'Queued','voice',?,?,? WHERE (SELECT COUNT(*) FROM jobs WHERE created_at>=? AND json_extract(body,'$.phase1')=1)<?").bind(jid,v.id,ik,JSON.stringify(snapshot),stamp,stamp,p1dayStart(),budget.maxJobsPerDay).run();if(!r.meta.changes)p1error('Daily video allowance reached. Resume existing work or ask the owner to adjust limits.',429);await h.event(db,user,'Video version requested',jid);return json(p1parse(await db.prepare('SELECT * FROM jobs WHERE id=?').bind(jid).first()),202);
  }
+ const diagnostic=path.match(/^jobs\/([^/]+)\/provider-status$/);
+ if(diagnostic&&method==='POST'){h.ownerOnly(user);const j=p1parse(await db.prepare('SELECT * FROM jobs WHERE id=?').bind(diagnostic[1]).first());if(!j?.provider_id)p1error('No saved provider task is available.',404);const result=await h.providerJson('https://api.kie.ai/api/v1/jobs/recordInfo?taskId='+encodeURIComponent(j.provider_id),{headers:{Authorization:'Bearer '+env.KIE_API_KEY}});if(result.data?.taskId!==j.provider_id)p1error('Provider task could not be verified.',409);const detail={taskId:j.provider_id,state:result.data.state,...p1providerFailure(result.data,env)};await h.event(db,user,'Provider result checked without new generation',j.id);return json(await p1job(db,j,{body:{providerFailure:detail,error:result.data.state==='fail'?'Kie: '+detail.message:j.body.error}}));}
  const jobMatch=path.match(/^jobs\/([^/]+)\/(advance|reconcile|exports)$/);
  if(jobMatch&&method==='POST'){
   const j=p1parse(await db.prepare('SELECT * FROM jobs WHERE id=?').bind(jobMatch[1]).first());if(!j)p1error('Video job not found.',404);
