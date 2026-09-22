@@ -2133,7 +2133,7 @@
       "hookA": "Interview mein pehli line atak jaati hai?",
       "hookB": "Apna introduction English mein do lines mein bolo.",
       "execution": "0–2s Sia hook; 2–7s model answer; 7–10s 2-second practice pause; 10–20s substitute your name/role; 20–25s recap and save CTA.",
-      "calendarFit": "Oct 1 introduction; Oct 8 meeting requests; use as alternate drafts, keep approved scripts unchanged.",
+      "calendarFit": "Oct 1 introduction; Oct 8 reception requests; use as alternate drafts, keep approved scripts unchanged.",
       "primaryMetric": "3-second hold where available; YouTube viewed-vs-swiped separately",
       "guardrail": "Completion/APV and saves per reached account; compare only same platform and observation window."
     },
