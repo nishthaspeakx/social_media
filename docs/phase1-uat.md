@@ -34,3 +34,6 @@ Both saved connections passed after the redirect fix. A single short Sia test wa
 - Background changes require a prepared single-Sia reference frame. Original assets remain unchanged.
 - Every paid attempt is explicit. Uncertain outcomes are held for reconciliation; they are never blindly retried.
 - Editorial quality scores are transparent checks, not predictions of viral performance. AI semantic review uses Kie credits and remains editable.
+
+## Full-script test and recovery
+The full interview script was saved as Script V4 with the supplied office reference. Cartesia generated the full narration; InfiniteTalk failed again at the first of two clips with provider code 500 and `internal error, please try again later.` The source files were independently reachable (HTTP 200); the prior WAV decoded as 44.1 kHz mono PCM with audible signal. A bounded Kling Avatar Standard recovery now reuses the saved full audio in one provider request, preserves the failed attempt, requires explicit charge consent, enforces the daily allowance and deduplicates repeat clicks. Automated tests prove no second Cartesia synthesis occurs. Real Kling output and final visual/audio review are pending.

@@ -74,3 +74,21 @@ test('provider failure inspection reuses the stored task without submitting gene
  try{const v=await(await call('versions','POST',draft)).json();const j=await(await call('jobs','POST',{versionId:v.id,requestId:crypto.randomUUID()})).json();sql.prepare("UPDATE jobs SET status='Failed',stage='poll',provider_id=? WHERE id=?").run('task-verified-123',j.id);globalThis.fetch=async(url,options)=>{requests.push(String(url));assert.equal(options.redirect,'manual');return Response.json({code:200,data:{taskId:'task-verified-123',state:'fail',failCode:'422',failMsg:'Unsupported source format'}});};const r=await call('jobs/'+j.id+'/provider-status','POST',{});assert.equal(r.status,200);const result=await r.json();assert.equal(result.status,'Failed');assert.equal(result.body.providerFailure.message,'Unsupported source format');assert.equal(requests.length,1);assert.match(requests[0],/recordInfo/);assert.equal(sql.prepare('SELECT COUNT(*) AS n FROM jobs').get().n,1);
  }finally{globalThis.fetch=original;sql.close()}
 });
+test('Kling recovery preserves the failed take, reuses full audio, enforces limits and never synthesizes again',async()=>{
+ const {call,sql,files}=fixture(),original=globalThis.fetch;let videoCalls=0;
+ try{
+  const v=await(await call('versions','POST',draft)).json();const j=await(await call('jobs','POST',{versionId:v.id,requestId:crypto.randomUUID()})).json();
+  const saved={...j.body,audioKey:'jobs/'+j.id+'/voice.wav',audioDuration:25,words:[{word:'Test',start:0,end:24}],captions:[{start:0,end:24,text:'Test'}],clips:[{taskId:'failed-task'}],providerFailure:{state:'fail',code:'500',message:'internal error'}};
+  files.set(saved.audioKey,{bytes:new Uint8Array(88200*25+44),type:'audio/wav'});
+  sql.prepare("UPDATE jobs SET status='Failed',stage='poll',provider_id='failed-task',body=? WHERE id=?").run(JSON.stringify(saved),j.id);
+  assert.equal((await call('jobs/'+j.id+'/retry-model','POST',{})).status,400);
+  assert.equal((await call('jobs/'+j.id+'/retry-model','POST',{confirmedCredits:true})).status,429);
+  await call('budget','PUT',{maxJobsPerDay:2,maxSeconds:60});
+  const r=await call('jobs/'+j.id+'/retry-model','POST',{confirmedCredits:true});assert.equal(r.status,202);const next=await r.json();
+  assert.notEqual(next.id,j.id);assert.equal(next.version_id,v.id);assert.equal(next.body.reusedAudioFrom,j.id);assert.equal(next.body.audioKey,saved.audioKey);assert.equal(next.body.providerModel,'kling/ai-avatar-standard');assert.equal(next.body.clips.length,1);assert.equal(next.body.clips[0].duration,25);assert.equal(next.stage,'upload');assert.equal(sql.prepare('SELECT status FROM jobs WHERE id=?').get(j.id).status,'Failed');
+  const same=await(await call('jobs/'+j.id+'/retry-model','POST',{confirmedCredits:true})).json();assert.equal(same.id,next.id);assert.equal(sql.prepare('SELECT COUNT(*) AS n FROM jobs').get().n,2);
+  globalThis.fetch=async(url,opts)=>{if(String(url).includes('file-base64-upload'))return Response.json({code:200,data:{downloadUrl:'https://tempfile.redpandaai.co/test/saved.wav'}});if(String(url).includes('createTask')){videoCalls++;const b=JSON.parse(opts.body);assert.equal(b.model,'kling/ai-avatar-standard');assert.equal(b.input.resolution,undefined);return Response.json({code:200,data:{taskId:'kling-full-123'}});}throw Error('Unexpected fetch; must not synthesize: '+url);};
+  const uploaded=await(await call('jobs/'+next.id+'/advance','POST',{})).json();assert.equal(uploaded.stage,'video');
+  const queued=await(await call('jobs/'+next.id+'/advance','POST',{})).json();assert.equal(queued.stage,'poll');assert.equal(queued.provider_id,'kling-full-123');assert.equal(videoCalls,1);
+ }finally{globalThis.fetch=original;sql.close()}
+});
