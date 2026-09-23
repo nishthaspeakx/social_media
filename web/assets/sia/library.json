@@ -4,6 +4,27 @@
   "backgroundPolicy": "Background, lighting, props and framing may change per video. Preserve Sia identity and chosen outfit; Sia is the only person and voice.",
   "assets": [
     {
+      "id": "front-closed-portrait",
+      "file": "sia-front-closed-portrait.png",
+      "derivedFrom": "sia-front-closed-original.webp",
+      "width": 720,
+      "height": 1280,
+      "sha256": "4f8c81afb726cd484adbcfe7c265c04c325a833be8441ec7e86f53664d669815",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Recommended generation frame. 9:16 portrait crop of the owner-supplied closed-mouth photo (23 September 2026), upscaled to 720x1280. Relaxed closed lips give natural lip-sync; portrait framing avoids cropping and enlarging landscape footage. Plain dark background."
+    },
+    {
+      "id": "front-closed-original",
+      "file": "sia-front-closed-original.webp",
+      "width": 1110,
+      "height": 880,
+      "sha256": "4358bf50346a654e79c247defc4d57e74237e7a109f8f8f137801a1ff38a8538",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Owner-supplied original, preserved byte-for-byte. Screenshot with a light border; use the portrait crop for generation."
+    },
+    {
       "id": "front",
       "file": "sia-front.png",
       "originalFilename": "Screenshot 2026-09-21 at 23.48.40.png",

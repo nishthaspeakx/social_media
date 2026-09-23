@@ -1,4 +1,5 @@
 const SIA_REFERENCES = [
+  {id:'front-closed-portrait',title:'Recommended · portrait 9:16 · closed-mouth smile',file:'assets/sia/sia-front-closed-portrait.png',width:720,height:1280,single:true,use:'Best for natural lip-sync and sharp 9:16 video: relaxed closed lips, portrait framing, plain dark background.'},
   {id:'front',title:'Front view · relaxed closed-mouth smile · best for lip-sync',file:'assets/sia/sia-front.png',width:1144,height:872,single:true,use:'Identity and direct-to-camera teaching. Relaxed closed mouth gives the most natural lip-sync. Plain dark background.'},
   {id:'profile',title:'Side view · listening',file:'assets/sia/sia-profile.png',width:1154,height:642,single:true,use:'Side-angle continuity, listening and reaction direction. Prefer the front view for lip-sync tests.'},
   {id:'office',title:'Office · wide open mouth · may exaggerate lip-sync',file:'assets/sia/sia-office.png',width:1148,height:642,single:true,use:'Office background, but Sia is caught mid-laugh with her mouth wide open. The avatar model copies that, so her mouth opens too wide when she talks. Prefer a relaxed closed-mouth office photo.'},
