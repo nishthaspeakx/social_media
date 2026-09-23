@@ -379,7 +379,8 @@
       "I'm",
       "completed",
       "graduation"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-02",
@@ -760,7 +761,8 @@
     "highlightTerms": [
       "read",
       "drinks"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-03",
@@ -1140,7 +1142,8 @@
     ],
     "highlightTerms": [
       "am"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-04",
@@ -1530,7 +1533,8 @@
       "is",
       "read",
       "am"
-    ]
+    ],
+    "videoType": "Quiz / challenge"
   },
   {
     "id": "SIA-2026-10-05",
@@ -1941,7 +1945,8 @@
     "highlightTerms": [
       "confident",
       "confidence"
-    ]
+    ],
+    "videoType": "Location story + fix"
   },
   {
     "id": "SIA-2026-10-06",
@@ -2323,7 +2328,8 @@
       "am",
       "is",
       "are"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-07",
@@ -2707,7 +2713,8 @@
       "books",
       "cups",
       "pens"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-08",
@@ -3118,7 +3125,8 @@
     ],
     "highlightTerms": [
       "Could you"
-    ]
+    ],
+    "videoType": "Location story + fix"
   },
   {
     "id": "SIA-2026-10-09",
@@ -3510,7 +3518,8 @@
     ],
     "highlightTerms": [
       "do"
-    ]
+    ],
+    "videoType": "Location story + fix"
   },
   {
     "id": "SIA-2026-10-10",
@@ -3908,7 +3917,8 @@
     ],
     "highlightTerms": [
       "doesn't"
-    ]
+    ],
+    "videoType": "Mistake → fix"
   },
   {
     "id": "SIA-2026-10-11",
