@@ -1,0 +1,146 @@
+{
+  "received": "2026-09-23",
+  "note": "Owner-supplied high-quality Sia photos, preserved byte-for-byte. Not served by the app; 9:16 generation frames made from them live in web/assets/sia/frames/.",
+  "assets": [
+    {
+      "id": "hq-02",
+      "file": "sia-02.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "e0ce5af44abd210d600253a6300767612b5a6cb145f1610c4484f7ee073bb451",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Warm wall, white shirt, smile shows teeth → frame warm-wall-white-shirt"
+    },
+    {
+      "id": "hq-03",
+      "file": "sia-03.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "c7c386e811d40b871521b79260cddab77cb19ee028cd402d8ae50b29cad4bf5a",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Office window, beige turtleneck, closed mouth → frame office-window-turtleneck"
+    },
+    {
+      "id": "hq-04",
+      "file": "sia-04.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "d0e59b6abd2e4cfb366d1af0a224fb88ad91807054678cddd7386d2eb760920d",
+      "transparent": false,
+      "singlePresenter": false,
+      "usage": "Café, laughing, other people behind — reference only, never a generation frame"
+    },
+    {
+      "id": "hq-05",
+      "file": "sia-05.jpg",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "5edc9c5801dc66e7635ece8f90b617c417f6809d92555e6197b607809088eb40",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Office, rust shirt, three-quarter view → frame office-rust-shirt"
+    },
+    {
+      "id": "hq-06",
+      "file": "sia-06.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "0fa40e51a1597295ad4112cbf397ba4c16f9dd87d1af12aa4a360676d863d706",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio, beige blazer, open palms → frame studio-blazer-open-palms"
+    },
+    {
+      "id": "hq-07",
+      "file": "sia-07.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "e915fc91fa2d92bd4f9d8bf81cd4f222c8d5deaf4d17f90629867a7e69181cdf",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Home living room, closed mouth → frame home-living-room"
+    },
+    {
+      "id": "hq-08",
+      "file": "sia-08.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "d7683685318e668cf7083e6d683b14f507b2c2d9109d63beb0436a2008f91e7e",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Full body office, curly hair — wardrobe reference only"
+    },
+    {
+      "id": "hq-09",
+      "file": "sia-09.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "427baf83459de908678ac36164ee42e5e16b2a275625e859d9523899fe4e2b65",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Full body beige suit — wardrobe reference only"
+    },
+    {
+      "id": "hq-10",
+      "file": "sia-10.webp",
+      "width": 1493,
+      "height": 2000,
+      "sha256": "b198b38f182bec3ed65e966e1a9fe94043cc8cc651673c4593f1c57857b678cb",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Home, sweater, looking off-camera → frame home-thoughtful"
+    },
+    {
+      "id": "hq-11",
+      "file": "sia-11.webp",
+      "width": 2000,
+      "height": 2000,
+      "sha256": "2ff3f7772af95e5c0fb49abc73937ca019a0f402b25bb0100d2df82a472c8410",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio, grey turtleneck, closed mouth → frame studio-grey-turtleneck"
+    },
+    {
+      "id": "hq-12",
+      "file": "sia-12.webp",
+      "width": 2000,
+      "height": 2000,
+      "sha256": "07f6b12f99b89aa298ec9bb4ec0492923787ab85699333746d774323cde731a1",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio, grey turtleneck, slight smile → frame studio-grey-turtleneck-2"
+    },
+    {
+      "id": "hq-13",
+      "file": "sia-13.png",
+      "width": 660,
+      "height": 660,
+      "sha256": "dd396b4a036b1e2c885da27c398a60975c0dd7f396ef82f5496861a80d796471",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Low-resolution studio still (660 px) — backup only"
+    },
+    {
+      "id": "hq-14",
+      "file": "sia-14.png",
+      "width": 660,
+      "height": 660,
+      "sha256": "50d1145e17eba34ec93baed0b1a7ec211bb667a5d38e192b2c18aed428c3c560",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Low-resolution studio still (660 px) — backup only"
+    },
+    {
+      "id": "hq-15",
+      "file": "sia-15.png",
+      "width": 660,
+      "height": 660,
+      "sha256": "ebd808868521c42d221a1514a55e2162a18394c85ff6d2ec66062ba9806a12c7",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Low-resolution studio still (660 px) — backup only"
+    }
+  ]
+}

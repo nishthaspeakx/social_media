@@ -388,7 +388,8 @@
       "graduation"
     ],
     "videoType": "POV trend + mistake fix",
-    "theme": "Trend / Meme / Viral"
+    "theme": "Trend / Meme / Viral",
+    "referenceAsset": "office-window-turtleneck"
   },
   {
     "id": "SIA-2026-10-02",
@@ -787,7 +788,8 @@
       "drinks"
     ],
     "videoType": "Challenge / fix it",
-    "theme": "Challenge / Interactive"
+    "theme": "Challenge / Interactive",
+    "referenceAsset": "studio-grey-turtleneck-2"
   },
   {
     "id": "SIA-2026-10-03",
@@ -1193,7 +1195,8 @@
       "am"
     ],
     "videoType": "Family skit + fix",
-    "theme": "Entertainment + English"
+    "theme": "Entertainment + English",
+    "referenceAsset": "home-living-room"
   },
   {
     "id": "SIA-2026-10-04",
@@ -1603,7 +1606,8 @@
       "am"
     ],
     "videoType": "Before / after",
-    "theme": "Transformation / Motivation"
+    "theme": "Transformation / Motivation",
+    "referenceAsset": "studio-blazer-open-palms"
   },
   {
     "id": "SIA-2026-10-05",
@@ -2016,7 +2020,8 @@
       "confidence"
     ],
     "videoType": "Relatable problem + fix",
-    "theme": "Relatable English Problems"
+    "theme": "Relatable English Problems",
+    "referenceAsset": "office-window-turtleneck"
   },
   {
     "id": "SIA-2026-10-06",
@@ -2400,7 +2405,8 @@
       "are"
     ],
     "videoType": "Rule in 20 seconds",
-    "theme": "Learn With Sia"
+    "theme": "Learn With Sia",
+    "referenceAsset": "studio-grey-turtleneck"
   },
   {
     "id": "SIA-2026-10-07",
@@ -2801,7 +2807,8 @@
       "pens"
     ],
     "videoType": "Emotional story + fix",
-    "theme": "Emotional / Story"
+    "theme": "Emotional / Story",
+    "referenceAsset": "home-thoughtful"
   },
   {
     "id": "SIA-2026-10-08",
@@ -3215,7 +3222,8 @@
       "Could you"
     ],
     "videoType": "POV trend + polite line",
-    "theme": "Trend / Meme / Viral"
+    "theme": "Trend / Meme / Viral",
+    "referenceAsset": "office-rust-shirt"
   },
   {
     "id": "SIA-2026-10-09",
@@ -3613,7 +3621,8 @@
       "do"
     ],
     "videoType": "Challenge / fix it",
-    "theme": "Challenge / Interactive"
+    "theme": "Challenge / Interactive",
+    "referenceAsset": "studio-grey-turtleneck-2"
   },
   {
     "id": "SIA-2026-10-10",
@@ -4013,7 +4022,8 @@
       "doesn't"
     ],
     "videoType": "Couple skit + fix",
-    "theme": "Entertainment + English"
+    "theme": "Entertainment + English",
+    "referenceAsset": "home-living-room"
   },
   {
     "id": "SIA-2026-10-11",
@@ -4415,7 +4425,8 @@
       "Let me try"
     ],
     "theme": "Transformation / Motivation",
-    "videoType": "Confidence transformation"
+    "videoType": "Confidence transformation",
+    "referenceAsset": "studio-blazer-open-palms"
   },
   {
     "id": "SIA-2026-10-12",
@@ -4797,7 +4808,8 @@
       "reliable"
     ],
     "theme": "Relatable English Problems",
-    "videoType": "Relatable problem + answer"
+    "videoType": "Relatable problem + answer",
+    "referenceAsset": "office-window-turtleneck"
   },
   {
     "id": "SIA-2026-10-13",
@@ -5177,7 +5189,8 @@
       "have"
     ],
     "theme": "Learn With Sia",
-    "videoType": "Rule in 20 seconds"
+    "videoType": "Rule in 20 seconds",
+    "referenceAsset": "studio-grey-turtleneck"
   },
   {
     "id": "SIA-2026-10-14",
@@ -5589,7 +5602,8 @@
       "cities"
     ],
     "theme": "Emotional / Story",
-    "videoType": "Emotional story + fix"
+    "videoType": "Emotional story + fix",
+    "referenceAsset": "home-thoughtful"
   },
   {
     "id": "SIA-2026-10-15",
@@ -5990,7 +6004,8 @@
       "repeat"
     ],
     "theme": "Trend / Meme / Viral",
-    "videoType": "POV trend + polite line"
+    "videoType": "POV trend + polite line",
+    "referenceAsset": "office-rust-shirt"
   },
   {
     "id": "SIA-2026-10-16",
@@ -6391,7 +6406,8 @@
       "because"
     ],
     "theme": "Challenge / Interactive",
-    "videoType": "Challenge / finish the sentence"
+    "videoType": "Challenge / finish the sentence",
+    "referenceAsset": "studio-grey-turtleneck-2"
   },
   {
     "id": "SIA-2026-10-17",
@@ -6791,7 +6807,8 @@
       "discuss"
     ],
     "theme": "Entertainment + English",
-    "videoType": "Office skit + fix"
+    "videoType": "Office skit + fix",
+    "referenceAsset": "home-living-room"
   },
   {
     "id": "SIA-2026-10-18",
@@ -7180,7 +7197,8 @@
       "of experience"
     ],
     "theme": "Transformation / Motivation",
-    "videoType": "Before / after"
+    "videoType": "Before / after",
+    "referenceAsset": "studio-blazer-open-palms"
   },
   {
     "id": "SIA-2026-10-19",
@@ -7563,7 +7581,8 @@
       "available"
     ],
     "theme": "Relatable English Problems",
-    "videoType": "Relatable problem + answer"
+    "videoType": "Relatable problem + answer",
+    "referenceAsset": "office-window-turtleneck"
   },
   {
     "id": "SIA-2026-10-20",
@@ -7946,7 +7965,8 @@
       "do"
     ],
     "theme": "Learn With Sia",
-    "videoType": "Rule in 20 seconds"
+    "videoType": "Rule in 20 seconds",
+    "referenceAsset": "studio-grey-turtleneck"
   },
   {
     "id": "SIA-2026-10-21",
@@ -8358,7 +8378,8 @@
       "children"
     ],
     "theme": "Emotional / Story",
-    "videoType": "Emotional story + fix"
+    "videoType": "Emotional story + fix",
+    "referenceAsset": "home-thoughtful"
   },
   {
     "id": "SIA-2026-10-22",
@@ -8760,7 +8781,8 @@
       "consider"
     ],
     "theme": "Trend / Meme / Viral",
-    "videoType": "POV trend + polite line"
+    "videoType": "POV trend + polite line",
+    "referenceAsset": "office-rust-shirt"
   },
   {
     "id": "SIA-2026-10-23",
@@ -9160,7 +9182,8 @@
       "till"
     ],
     "theme": "Challenge / Interactive",
-    "videoType": "Challenge / choose"
+    "videoType": "Challenge / choose",
+    "referenceAsset": "studio-grey-turtleneck-2"
   },
   {
     "id": "SIA-2026-10-24",
@@ -9561,7 +9584,8 @@
       "call"
     ],
     "theme": "Entertainment + English",
-    "videoType": "Friends skit + fix"
+    "videoType": "Friends skit + fix",
+    "referenceAsset": "home-living-room"
   },
   {
     "id": "SIA-2026-10-25",
@@ -9963,7 +9987,8 @@
       "improving"
     ],
     "theme": "Transformation / Motivation",
-    "videoType": "Motivation"
+    "videoType": "Motivation",
+    "referenceAsset": "studio-blazer-open-palms"
   },
   {
     "id": "SIA-2026-10-26",
@@ -10346,7 +10371,8 @@
       "adjust"
     ],
     "theme": "Relatable English Problems",
-    "videoType": "Relatable problem + answer"
+    "videoType": "Relatable problem + answer",
+    "referenceAsset": "office-window-turtleneck"
   },
   {
     "id": "SIA-2026-10-27",
@@ -10726,7 +10752,8 @@
       "were"
     ],
     "theme": "Learn With Sia",
-    "videoType": "Rule in 20 seconds"
+    "videoType": "Rule in 20 seconds",
+    "referenceAsset": "studio-grey-turtleneck"
   },
   {
     "id": "SIA-2026-10-28",
@@ -11138,7 +11165,8 @@
       "is"
     ],
     "theme": "Emotional / Story",
-    "videoType": "Emotional story + fix"
+    "videoType": "Emotional story + fix",
+    "referenceAsset": "home-thoughtful"
   },
   {
     "id": "SIA-2026-10-29",
@@ -11533,7 +11561,8 @@
       "I see your point"
     ],
     "theme": "Trend / Meme / Viral",
-    "videoType": "POV trend + polite line"
+    "videoType": "POV trend + polite line",
+    "referenceAsset": "office-rust-shirt"
   },
   {
     "id": "SIA-2026-10-30",
@@ -11915,6 +11944,7 @@
       "going to"
     ],
     "theme": "Challenge / Interactive",
-    "videoType": "Challenge / say it"
+    "videoType": "Challenge / say it",
+    "referenceAsset": "studio-grey-turtleneck-2"
   }
 ]
