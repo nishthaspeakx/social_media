@@ -18,7 +18,7 @@ Generated from `data/october.json`. Each date keeps its original grammar goal, b
 
 ### 2026-10-01 · Thursday · Trend / Meme / Viral
 
-- **Video:** Introduce yourself in an interview · POV trend + mistake fix · 52 words, about 20s
+- **Video:** Interview ki pehli line: 'Myself' mat bolo · POV trend + mistake fix · 52 words, about 20s
 - **Hook:** Interview ki pehli line: Myself Riya?
 - **On screen:** 💬 “POV: HR says, tell me about yourself”; ❌ “Myself Riya?”; ✅ “I'm Riya. I've just completed my graduation.”
 - **Cover text:** MYSELF RIYA? ❌
@@ -42,7 +42,7 @@ Aapki interview ki pehli line kya hai? Comment mein likho 👇
 
 ### 2026-10-02 · Friday · Challenge / Interactive
 
-- **Video:** Build a subject–verb–object sentence · Challenge / fix it · 46 words, about 18s
+- **Video:** 3-second challenge: fix 'I books read' · Challenge / fix it · 46 words, about 18s
 - **Hook:** Three second challenge: yeh sentence theek karo.
 - **On screen:** ❌ “I books read.”; ✅ “I read books.”
 - **Cover text:** FIX IT IN 3 SEC
@@ -66,7 +66,7 @@ Kya aap 3 second mein theek kar paaye? Comment mein likho 👇
 
 ### 2026-10-03 · Saturday · Entertainment + English
 
-- **Video:** Find the missing am · Family skit + fix · 54 words, about 21s
+- **Video:** 'I happy!' Mummy vs English · Family skit + fix · 54 words, about 21s
 - **Hook:** Mummy ne poocha: kaisa hai beta?
 - **On screen:** 💬 “Mummy: Kaisa hai beta?”; ❌ “I happy!”; ✅ “I am happy.”
 - **Cover text:** I HAPPY? 😅
@@ -90,7 +90,7 @@ Aaj aap kaisa feel kar rahe ho? Comment mein likho 👇
 
 ### 2026-10-04 · Sunday · Transformation / Motivation
 
-- **Video:** Opening-week three-question revision · Before / after · 45 words, about 17s
+- **Video:** Week 1 before vs after · Before / after · 45 words, about 17s
 - **Hook:** Week one ka before aur after.
 - **On screen:** ✅ “I'm Riya.”; ✅ “I read books.”; ✅ “I am happy.”
 - **Cover text:** WEEK 1: BEFORE → AFTER
@@ -113,7 +113,7 @@ Inmein se kaunsi galti aap karte the? Comment mein likho 👇
 
 ### 2026-10-05 · Monday · Relatable English Problems
 
-- **Video:** Confident: describe how you feel · Relatable problem + fix · 54 words, about 21s
+- **Video:** I am confidence? Sahi kya hai · Relatable problem + fix · 54 words, about 21s
 - **Hook:** Placement interview mein bola: I am confidence?
 - **On screen:** 📍 Pune · Placement season; ❌ “I am confidence?”; ✅ “I am confident.”
 - **Cover text:** I AM CONFIDENCE? ❌
@@ -137,7 +137,7 @@ Aap kab confident feel karte ho? Comment mein likho 👇
 
 ### 2026-10-06 · Tuesday · Learn With Sia
 
-- **Video:** Am, is and are · Rule in 20 seconds · 54 words, about 21s
+- **Video:** They is ya they are? · Rule in 20 seconds · 54 words, about 21s
 - **Hook:** They is ready?
 - **On screen:** ❌ “They is ready?”; ✅ “They are ready.”
 - **Cover text:** THEY IS? ❌
@@ -161,7 +161,7 @@ We ke saath ek sentence likho. Comment mein likho 👇
 
 ### 2026-10-07 · Wednesday · Emotional / Story
 
-- **Video:** One book, two books · Emotional story + fix · 59 words, about 23s
+- **Video:** Beti ka ek sawaal: two book ya two books? · Emotional story + fix · 59 words, about 23s
 - **Hook:** Beti ka ek sawaal, aur Kavita chup.
 - **On screen:** 💬 “Mummy, two book ya two books?”; ✅ “Two books. Three pens.”
 - **Cover text:** TWO BOOK YA BOOKS?
@@ -184,7 +184,7 @@ Ghar ki kaunsi cheez ka plural bologe? Comment mein likho 👇
 
 ### 2026-10-08 · Thursday · Trend / Meme / Viral
 
-- **Video:** Ask politely at reception · POV trend + polite line · 58 words, about 22s
+- **Video:** POV: first day at office reception · POV trend + polite line · 58 words, about 22s
 - **Hook:** POV: pehla din, office reception.
 - **On screen:** 📍 Bangalore · Day 1 at the office; ❌ “Where is interview room?”; ✅ “Could you tell me where the interview room is?”
 - **Cover text:** POV: RECEPTION PE
@@ -208,7 +208,7 @@ Meeting room ke liye aap kaise poochoge? Comment mein likho 👇
 
 ### 2026-10-09 · Friday · Challenge / Interactive
 
-- **Video:** Question word order · Challenge / fix it · 50 words, about 19s
+- **Video:** Challenge: what's missing in 'Where you work?' · Challenge / fix it · 50 words, about 19s
 - **Hook:** Challenge: is question mein kya missing hai?
 - **On screen:** ❌ “Where you work?”; ✅ “Where do you work?”
 - **Cover text:** WHAT'S MISSING?
@@ -232,7 +232,7 @@ Naye colleague se aap pehla question kya poochoge? Comment mein likho 👇
 
 ### 2026-10-10 · Saturday · Entertainment + English
 
-- **Video:** She does not, not she do not · Couple skit + fix · 52 words, about 20s
+- **Video:** 'She don't like tea' — and the wife caught it · Couple skit + fix · 52 words, about 20s
 - **Hook:** Pati ne kaha: She don't like tea.
 - **On screen:** ❌ “She don't like tea.”; ✅ “She doesn't like tea.”
 - **Cover text:** SHE DON'T? 😅
@@ -256,7 +256,7 @@ He ke saath ek sentence likho. Comment mein likho 👇
 
 ### 2026-10-11 · Sunday · Transformation / Motivation
 
-- **Video:** Week two mini test · Confidence transformation · 51 words, about 20s
+- **Video:** Stop saying 'Sorry, my English is not good' · Confidence transformation · 51 words, about 20s
 - **Hook:** Aap bhi har sentence se pehle sorry bolte ho?
 - **On screen:** ❌ “Sorry, my English is not good.”; ✅ “Let me try.”
 - **Cover text:** STOP SAYING SORRY
@@ -280,7 +280,7 @@ Aap aaj se kaunsi line bologe? Comment mein likho 👇
 
 ### 2026-10-12 · Monday · Relatable English Problems
 
-- **Video:** Reliable: describe a strength · Relatable problem + answer · 52 words, about 20s
+- **Video:** 'What is your strength?' Mind blank? · Relatable problem + answer · 52 words, about 20s
 - **Hook:** Interviewer ne poocha: what is your strength?
 - **On screen:** 💬 “Interviewer: What is your strength?”; ✅ “I am reliable. I finish my work on time.”
 - **Cover text:** STRENGTH? BLANK?
@@ -303,7 +303,7 @@ Aapki strength kya hai? Comment mein likho 👇
 
 ### 2026-10-13 · Tuesday · Learn With Sia
 
-- **Video:** Has and have · Rule in 20 seconds · 54 words, about 21s
+- **Video:** Has ya have? One-line rule · Rule in 20 seconds · 54 words, about 21s
 - **Hook:** Has ya have?
 - **On screen:** ❌ “She have a car.”; ✅ “She has a car.”
 - **Cover text:** HAS YA HAVE?
@@ -327,7 +327,7 @@ Apne phone ke baare mein ek line likho. Comment mein likho 👇
 
 ### 2026-10-14 · Wednesday · Emotional / Story
 
-- **Video:** City becomes cities · Emotional story + fix · 55 words, about 21s
+- **Video:** Patna se Bangalore: 'many city' · Emotional story + fix · 55 words, about 21s
 - **Hook:** Rohan Patna se Bangalore aaya, pehli naukri ke liye.
 - **On screen:** 📍 Patna · Rohan’s hometown; ❌ “I visited many city.”; ✅ “I visited many cities.”
 - **Cover text:** MANY CITY? ❌
@@ -351,7 +351,7 @@ Aap kaunsi cities gaye ho? Comment mein likho 👇
 
 ### 2026-10-15 · Thursday · Trend / Meme / Viral
 
-- **Video:** Ask an interviewer to repeat · POV trend + polite line · 55 words, about 21s
+- **Video:** POV: the interviewer talks too fast · POV trend + polite line · 55 words, about 21s
 - **Hook:** POV: interviewer bahut fast bol raha hai.
 - **On screen:** 💬 “POV: the interviewer is speaking too fast”; ✅ “Could you please repeat the question?”
 - **Cover text:** POV: TOO FAST!
@@ -374,7 +374,7 @@ Aapke saath aisa kab hua? Comment mein likho 👇
 
 ### 2026-10-16 · Friday · Challenge / Interactive
 
-- **Video:** Join a reason with because · Challenge / finish the sentence · 46 words, about 18s
+- **Video:** Finish this sentence in 5 seconds · Challenge / finish the sentence · 46 words, about 18s
 - **Hook:** Challenge: yeh sentence paanch second mein complete karo.
 - **On screen:** 💬 “I am learning English because ___”; ✅ “I am learning English because I want a better job.”
 - **Cover text:** FINISH IT IN 5 SEC
@@ -397,7 +397,7 @@ Aap English kyun seekh rahe ho? Comment mein likho 👇
 
 ### 2026-10-17 · Saturday · Entertainment + English
 
-- **Video:** Discuss, without about · Office skit + fix · 54 words, about 21s
+- **Video:** 'Let's discuss about' — the boss noticed · Office skit + fix · 54 words, about 21s
 - **Hook:** Colleague ne bola: let's discuss about the budget.
 - **On screen:** ❌ “let's discuss about the budget.”; ✅ “Let's discuss the budget.”
 - **Cover text:** DISCUSS ABOUT? 🤨
@@ -421,7 +421,7 @@ Aapke office ka topic kya hai? Comment mein likho 👇
 
 ### 2026-10-18 · Sunday · Transformation / Motivation
 
-- **Video:** Week three interview revision · Before / after · 46 words, about 18s
+- **Video:** Interview answer: before vs after · Before / after · 46 words, about 18s
 - **Hook:** Interview answer ka before aur after.
 - **On screen:** ❌ “I am doing job in sales.”; ✅ “I work in sales.”; ✅ “I have four years of experience.”
 - **Cover text:** BEFORE → AFTER
@@ -445,7 +445,7 @@ Aapki job ek line mein kya hai? Comment mein likho 👇
 
 ### 2026-10-19 · Monday · Relatable English Problems
 
-- **Video:** Available: tell someone when you are free · Relatable problem + answer · 53 words, about 20s
+- **Video:** 'Are you free at four?' The awkward answer · Relatable problem + answer · 53 words, about 20s
 - **Hook:** Manager ne poocha: are you free at four?
 - **On screen:** 💬 “Manager: Are you free at four?”; ✅ “Yes, I'm available at four.”
 - **Cover text:** FREE, FREE, FREE? 😅
@@ -468,7 +468,7 @@ Aap kal kab free ho? Comment mein likho 👇
 
 ### 2026-10-20 · Tuesday · Learn With Sia
 
-- **Video:** Do and does in questions · Rule in 20 seconds · 46 words, about 18s
+- **Video:** Do she ya does she? · Rule in 20 seconds · 46 words, about 18s
 - **Hook:** Do she like coffee?
 - **On screen:** ❌ “Do she like coffee?”; ✅ “Does she like coffee?”
 - **Cover text:** DO SHE? ❌
@@ -492,7 +492,7 @@ Does se aapka question kya hoga? Comment mein likho 👇
 
 ### 2026-10-21 · Wednesday · Emotional / Story
 
-- **Video:** Child becomes children · Emotional story + fix · 57 words, about 22s
+- **Video:** Jaipur toy shop: 'all childs' · Emotional story + fix · 57 words, about 22s
 - **Hook:** Jaipur mein Suresh ki chhoti si toy shop hai.
 - **On screen:** 📍 Jaipur · Suresh’s toy shop; ❌ “for all childs.”; ✅ “Yes, for all children.”
 - **Cover text:** ALL CHILDS? ❌
@@ -516,7 +516,7 @@ Children ke saath ek line likho. Comment mein likho 👇
 
 ### 2026-10-22 · Thursday · Trend / Meme / Viral
 
-- **Video:** Ask for time to consider an offer · POV trend + polite line · 51 words, about 20s
+- **Video:** POV: HR wants your answer now · POV trend + polite line · 51 words, about 20s
 - **Hook:** POV: HR ko offer ka answer abhi chahiye.
 - **On screen:** 💬 “POV: HR wants your answer now”; ✅ “Could I have a day to consider the offer?”
 - **Cover text:** POV: ANSWER NOW?
@@ -539,7 +539,7 @@ Aap offer pe kitna time maangoge? Comment mein likho 👇
 
 ### 2026-10-23 · Friday · Challenge / Interactive
 
-- **Video:** Connect a plan and a deadline · Challenge / choose · 51 words, about 20s
+- **Video:** Challenge: by Friday ya till Friday? · Challenge / choose · 51 words, about 20s
 - **Hook:** Challenge: by ya till?
 - **On screen:** ✅ “I will send the report by Friday.”; ✅ “I will work till six.”
 - **Cover text:** BY YA TILL?
@@ -562,7 +562,7 @@ Aapki agli deadline kya hai? Comment mein likho 👇
 
 ### 2026-10-24 · Saturday · Entertainment + English
 
-- **Video:** Did not plus base verb · Friends skit + fix · 57 words, about 22s
+- **Video:** 'Bro, I did not went' — canteen roast · Friends skit + fix · 57 words, about 22s
 - **Hook:** Bro, I did not went to class.
 - **On screen:** ❌ “I did not went to class.”; ✅ “I did not go to class.”
 - **Cover text:** DID NOT WENT? 😂
@@ -586,7 +586,7 @@ Did not ke saath apni ek line likho. Comment mein likho 👇
 
 ### 2026-10-25 · Sunday · Transformation / Motivation
 
-- **Video:** Week four three-question revision · Motivation · 56 words, about 21s
+- **Video:** Scared of speaking wrong English? · Motivation · 56 words, about 21s
 - **Hook:** English galat bolne ka darr lagta hai?
 - **On screen:** 💬 “Roz ek sentence, zor se.”; ✅ “I am learning, and I am improving.”
 - **Cover text:** DARR? YEH SUNO
@@ -609,7 +609,7 @@ Aaj aapka ek sentence kya hoga? Comment mein likho 👇
 
 ### 2026-10-26 · Monday · Relatable English Problems
 
-- **Video:** Adaptable: explain flexibility · Relatable problem + answer · 53 words, about 20s
+- **Video:** Last-minute plan change: what do you say? · Relatable problem + answer · 53 words, about 20s
 - **Hook:** Friday shaam, manager ne plan badal diya.
 - **On screen:** 💬 “Manager: Can you handle this by Monday?”; ✅ “Sure, I can adjust my plan.”
 - **Cover text:** OKAY, OKAY? 😬
@@ -632,7 +632,7 @@ Aap manager ko kya bologe? Comment mein likho 👇
 
 ### 2026-10-27 · Tuesday · Learn With Sia
 
-- **Video:** Was and were · Rule in 20 seconds · 49 words, about 19s
+- **Video:** Was ya were? Yesterday rule · Rule in 20 seconds · 49 words, about 19s
 - **Hook:** Was ya were?
 - **On screen:** ❌ “They was late.”; ✅ “They were late.”
 - **Cover text:** WAS YA WERE?
@@ -656,7 +656,7 @@ Kal aap kahan the? English mein likho. Comment mein likho 👇
 
 ### 2026-10-28 · Wednesday · Emotional / Story
 
-- **Video:** The news is: singular agreement · Emotional story + fix · 59 words, about 23s
+- **Video:** 'The news are good, papa!' · Emotional story + fix · 59 words, about 23s
 - **Hook:** Lucknow mein Aarti ke paas ek badi khushkhabri thi.
 - **On screen:** 📍 Lucknow · Aarti’s home; ❌ “The news are good, papa!”; ✅ “The news is good, papa. I got the job!”
 - **Cover text:** THE NEWS ARE? ❌
@@ -680,7 +680,7 @@ Aapki good news kya hai? Comment mein likho 👇
 
 ### 2026-10-29 · Thursday · Trend / Meme / Viral
 
-- **Video:** Disagree politely in a meeting · POV trend + polite line · 54 words, about 21s
+- **Video:** POV: you disagree with your boss · POV trend + polite line · 54 words, about 21s
 - **Hook:** POV: meeting mein aap boss se agree nahi karte.
 - **On screen:** 📍 Mumbai · Monday meeting; ❌ “you are wrong.”; ✅ “I see your point, but I have a different idea.”
 - **Cover text:** POV: DISAGREE?
@@ -704,7 +704,7 @@ Aap meeting mein kaise disagree karte ho? Comment mein likho 👇
 
 ### 2026-10-30 · Friday · Challenge / Interactive
 
-- **Video:** Make a plan with going to · Challenge / say it · 51 words, about 20s
+- **Video:** Challenge: tomorrow's plan in one line · Challenge / say it · 51 words, about 20s
 - **Hook:** Challenge: kal ka plan, sirf ek line mein.
 - **On screen:** ✅ “I am going to practise English for ten minutes.”; ✅ “We are going to meet at six.”
 - **Cover text:** YOUR PLAN? 1 LINE
