@@ -38,7 +38,7 @@ test('MP4 reader validates standard and fragmented track tables independently of
 test('production preflight prevents job creation and unique concurrent clicks create one immutable job',async()=>{
  const {call,sql}=fixture();try{
   const v=await(await call('versions','POST',draft)).json(),requestId=crypto.randomUUID();
-  for(const p of [undefined,{...production(),prompt:'Wrong script'},{...production(),captionsEnabled:false},{...production(),broll:[]}])assert.equal((await call('jobs','POST',{versionId:v.id,requestId,production:p})).status,409);
+  for(const p of [undefined,{...production(),prompt:'Wrong script'},{...production(),captionsEnabled:false},{...production(),broll:[{type:'stock',text:'x',start:1,end:2}]}])assert.equal((await call('jobs','POST',{versionId:v.id,requestId,production:p})).status,409);
   assert.equal(sql.prepare('SELECT COUNT(*) AS n FROM jobs').get().n,0);
   const p=production(),results=await Promise.all([call('jobs','POST',{versionId:v.id,requestId,production:p}),call('jobs','POST',{versionId:v.id,requestId,production:p})]);const [a,b]=await Promise.all(results.map(r=>r.json()));assert.equal(a.id,b.id);assert.deepEqual(a.body.scriptSnapshot,v.body);assert.equal(a.body.promptVersion,a.id);assert.deepEqual(a.body.production,p);assert.equal(a.body.voiceConfiguration.voiceId,'voice-1234');assert.equal(a.body.providerModel,'kling/ai-avatar-standard');assert.equal(sql.prepare('SELECT COUNT(*) AS n FROM jobs').get().n,1);
  }finally{sql.close();}
