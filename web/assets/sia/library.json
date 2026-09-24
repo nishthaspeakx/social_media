@@ -1,8 +1,109 @@
 {
-  "received": "2026-09-22",
+  "received": "2026-09-23",
   "rights": "Commercial Sia rights confirmed by owner in conversation.",
   "backgroundPolicy": "Background, lighting, props and framing may change per video. Preserve Sia identity and chosen outfit; Sia is the only person and voice.",
   "assets": [
+    {
+      "id": "office-window-turtleneck",
+      "file": "frames/sia-office-window-turtleneck.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "73d3a2ac728dca068c8f8f401441560b9ea21e03d5353dfac945f9b7f208a511",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Office window · beige turtleneck · relaxed closed mouth. Best for interviews, managers and office lessons. 9:16 generation frame."
+    },
+    {
+      "id": "studio-grey-turtleneck",
+      "file": "frames/sia-studio-grey-turtleneck.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "87dfa1359f536c0badd3583a44204ab4dcfa43dab576cc6e3651ca6739617ed5",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio · grey turtleneck · relaxed closed mouth. Best for Learn With Sia rules and clean teaching videos. 9:16 generation frame."
+    },
+    {
+      "id": "studio-grey-turtleneck-2",
+      "file": "frames/sia-studio-grey-turtleneck-2.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "58cbd3a46e901c6fe820f9aca2bc309a1467e7418eb57016c062f772c5485659",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio · grey turtleneck · slight smile. Alternative studio take for challenges and quizzes. 9:16 generation frame."
+    },
+    {
+      "id": "home-living-room",
+      "file": "frames/sia-home-living-room.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "0742313f965f36b06e6e3ffd35414985d2a0080139a2fe394e125bb44bc7de06",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Home · living room · closed mouth. Family and friends skits, parent stories. 9:16 generation frame."
+    },
+    {
+      "id": "office-rust-shirt",
+      "file": "frames/sia-office-rust-shirt.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "380ac4cce2d76af880b717c7c37ed4cc0f805416af827bf51022cc2694127499",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Office · rust shirt · three-quarter view. POV and meeting moments; face turned slightly. 9:16 generation frame."
+    },
+    {
+      "id": "home-thoughtful",
+      "file": "frames/sia-home-thoughtful.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "fb453148c13a1e65e67a327df58fcfcb3c5764920d48b3a6c41d6d92021587eb",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Home · sweater · looking off-camera. Story narration and reflective moments. 9:16 generation frame."
+    },
+    {
+      "id": "warm-wall-white-shirt",
+      "file": "frames/sia-warm-wall-white-shirt.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "fc5be2de8e52e91bbca168309b10292e8887db2bcafe0b0ff168d8a3e0adaeaf",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Warm wall · white shirt · smile shows teeth. Warm, friendly openers. The teeth-showing smile can widen the mouth slightly. 9:16 generation frame."
+    },
+    {
+      "id": "studio-blazer-open-palms",
+      "file": "frames/sia-studio-blazer-open-palms.jpg",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "6d0eca7879f79653c1410416c68db906f699c84186c53c66d7930345a24e6bed",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Studio · beige blazer · open palms. Transformation and motivation. Open-palms gesture; smile shows teeth. 9:16 generation frame."
+    },
+    {
+      "id": "front-closed-portrait",
+      "file": "sia-front-closed-portrait.png",
+      "derivedFrom": "sia-front-closed-original.webp",
+      "width": 720,
+      "height": 1280,
+      "sha256": "4f8c81afb726cd484adbcfe7c265c04c325a833be8441ec7e86f53664d669815",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Recommended generation frame. 9:16 portrait crop of the owner-supplied closed-mouth photo (23 September 2026), upscaled to 720x1280. Relaxed closed lips give natural lip-sync; portrait framing avoids cropping and enlarging landscape footage. Plain dark background."
+    },
+    {
+      "id": "front-closed-original",
+      "file": "sia-front-closed-original.webp",
+      "width": 1110,
+      "height": 880,
+      "sha256": "4358bf50346a654e79c247defc4d57e74237e7a109f8f8f137801a1ff38a8538",
+      "transparent": false,
+      "singlePresenter": true,
+      "usage": "Owner-supplied original, preserved byte-for-byte. Screenshot with a light border; use the portrait crop for generation."
+    },
     {
       "id": "front",
       "file": "sia-front.png",

@@ -24,7 +24,7 @@ test('Phase1 drafts use revision checks; approved scripts stay immutable and res
  const v2=await(await call('versions','POST',{...draft,script:'Please repeat that.',parentId:v1.id,name:'Shorter'})).json();assert.equal(v2.body.versionNumber,2);
  const restored=await(await call('versions/'+v1.id+'/restore','POST',{})).json();assert.equal(restored.body.versionNumber,3);assert.equal(restored.body.script,draft.script);assert.equal(restored.status,'Draft');assert.equal(restored.body.restoredFrom,v1.id);
  assert.equal(JSON.parse(sql.prepare('SELECT body FROM versions WHERE id=?').get(v1.id).body).script,draft.script);
- const review=await(await call('versions/'+v2.id+'/review','POST',{})).json();assert.equal(typeof review.score,'number');assert.ok(review.categories.length===6);assert.ok(review.improvedVersion.script);
+ const review=await(await call('versions/'+v2.id+'/review','POST',{})).json();assert.equal(typeof review.score,'number');assert.ok(review.categories.length===7);assert.ok(review.categories.some(c=>c.name==='Consistency'));assert.ok(review.improvedVersion.script);
  }finally{sql.close()}
 });
 test('multiple video versions require distinct idempotency requests and honor configured budget',async()=>{
