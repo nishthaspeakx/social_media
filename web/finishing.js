@@ -56,14 +56,14 @@ const SiaFinishing=(()=>{
  // Text overlay on top of Sia: she stays visible. Pops in, fades out. Wrong lines get a red strike.
  function textOverlay(ctx,item,time,settings={}){
   const w=ctx.canvas.width,h=ctx.canvas.height,elapsed=time-item.start,remaining=item.end-time,pop=Math.min(1,elapsed/.18),scale=.86+.14*(1-(1-pop)**3);
-  ctx.save();ctx.globalAlpha=Math.max(0,Math.min(1,elapsed/.08,remaining/.15));const badge=item.mark?92:0,pad=40,maxText=w*.84-badge-pad*2-(badge?28:0);
-  let size=68,lines;do{ctx.font=font(800,size);lines=captionLines(ctx,item.text,maxText);if(lines.length<=3&&lines.every(l=>ctx.measureText(l).width<=maxText))break;size-=2;}while(size>40);
+  ctx.save();ctx.globalAlpha=Math.max(0,Math.min(1,elapsed/.08,remaining/.15));const badge=item.mark?84:0,pad=36,maxText=w*.9-badge-pad*2-(badge?24:0);
+  let size=62,lines;do{ctx.font=font(800,size);lines=captionLines(ctx,item.text,maxText);if(lines.length<=3&&lines.every(l=>ctx.measureText(l).width<=maxText))break;size-=2;}while(size>40);
   if(lines.length>3||lines.some(l=>ctx.measureText(l).width>maxText))throw Error('Overlay text is too long to display safely.');
-  const textW=Math.max(...lines.map(l=>ctx.measureText(l).width)),lineH=size*1.22,boxW=textW+pad*2+badge+(badge?28:0),boxH=Math.max(badge+pad,lines.length*lineH+pad*1.4),cx=w/2,cy=h*(settings.overlayY??.585);
+  const textW=Math.max(...lines.map(l=>ctx.measureText(l).width)),lineH=size*1.22,boxW=textW+pad*2+badge+(badge?28:0),boxH=Math.max(badge+pad,lines.length*lineH+pad*1.4),cx=w/2,cy=settings.overlayTop!=null?h*settings.overlayTop+boxH/2:h*(settings.overlayY??.585);
   ctx.translate(cx,cy);ctx.scale(scale,scale);ctx.fillStyle='rgba(255,255,255,.96)';rounded(ctx,-boxW/2,-boxH/2,boxW,boxH,30);
   if(item.mark)mark(ctx,item.mark,-boxW/2+pad+badge/2,0,badge/2);const tx=-boxW/2+pad+badge+(badge?28:0);ctx.textAlign='left';ctx.textBaseline='middle';ctx.fillStyle=BRAND.ink;
   lines.forEach((line,i)=>{const y=(i-(lines.length-1)/2)*lineH;ctx.fillText(line,tx,y);if(item.mark==='wrong'){ctx.strokeStyle=BRAND.red;ctx.lineWidth=Math.max(5,size*.09);ctx.beginPath();ctx.moveTo(tx-6,y+size*.04);ctx.lineTo(tx+ctx.measureText(line).width+6,y+size*.04);ctx.stroke();}});
-  ctx.restore();ctx.globalAlpha=1;
+  ctx.restore();ctx.globalAlpha=1;return {top:cy-boxH/2,bottom:cy+boxH/2};
  }
  // Map postcard over Sia: slow zoom toward the pin, an orange pin, and a city label. Sia stays visible above it.
  function mapCard(ctx,item,time,image,settings={}){
@@ -79,12 +79,16 @@ const SiaFinishing=(()=>{
   let size=42;ctx.font=font(800,size);while(ctx.measureText(item.text).width>cw-80&&size>28){size-=2;ctx.font=font(800,size);}const lw=ctx.measureText(item.text).width+48;ctx.fillStyle=BRAND.ink;rounded(ctx,-lw/2,ch/2-size*.6,lw,size*1.5,size*.75);ctx.fillStyle=BRAND.white;ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(item.text,0,ch/2+size*.15);
   ctx.restore();ctx.globalAlpha=1;
  }
+ // Brand footer: a soft dark fade across the bottom 12% with the SpeakX line. It sits where Instagram's own UI goes,
+ // and it hides the thin band of fake subtitles the video model sometimes draws at the lower edge.
+ function footerBar(ctx){const w=ctx.canvas.width,h=ctx.canvas.height,top=h*.88,g=ctx.createLinearGradient(0,top,0,h*.925);g.addColorStop(0,'rgba(25,29,35,0)');g.addColorStop(1,'rgba(25,29,35,1)');ctx.fillStyle=g;ctx.fillRect(0,top,w,h*.045);ctx.fillStyle=BRAND.ink;ctx.fillRect(0,h*.925,w,h*.075);
+  ctx.font=font(800,34);ctx.textBaseline='middle';const brand='SpeakX',rest=' · Muh khol. English bol!',bw=ctx.measureText(brand).width,rw=ctx.measureText(rest).width,x=(w-bw-rw)/2,y=h*.962;ctx.textAlign='left';ctx.fillStyle=BRAND.orange;ctx.fillText(brand,x,y);ctx.fillStyle=BRAND.white;ctx.fillText(rest,x+bw,y);}
  // Word timing for the active cue: use voice timestamps when they match the cue text, else spread evenly.
  function cueWordTimes(cue,words=[]){const tokens=cue.text.trim().split(/\s+/),inside=words.filter(x=>x.start>=cue.start-.06&&x.end<=cue.end+.06);if(inside.length===tokens.length)return inside.map(x=>x.start);return tokens.map((_,i)=>cue.start+(cue.end-cue.start)*i/tokens.length);}
- function drawCaption(ctx,cue,time,terms,words){
-  const w=ctx.canvas.width,h=ctx.canvas.height,maxWidth=w*.84;let size=88,lines;do{ctx.font=font(800,size);lines=captionLines(ctx,cue.text,maxWidth);if(lines.length<=2&&lines.every(line=>ctx.measureText(line).width<=maxWidth))break;size-=2;}while(size>=56);
+ function drawCaption(ctx,cue,time,terms,words,minTop=0,bottomLimit=Infinity){
+  const w=ctx.canvas.width,h=ctx.canvas.height,maxWidth=w*.9;let size=88,lines;do{ctx.font=font(800,size);lines=captionLines(ctx,cue.text,maxWidth);const top=Math.max(h*.74-(lines.length-1)*size*1.22/2,minTop+size*.66)-size*.62,bottom=top+lines.length*size*1.22;if(lines.length<=2&&lines.every(line=>ctx.measureText(line).width<=maxWidth)&&bottom<=bottomLimit)break;size-=2;}while(size>=44);
   if(lines.length>2||lines.some(line=>ctx.measureText(line).width>maxWidth))throw Error('A caption is too long. Split it into shorter cues.');
-  const starts=cueWordTimes(cue,words);let active=-1;starts.forEach((t,i)=>{if(time>=t)active=i;});const highlighted=highlightWords(cue.text,terms),lineHeight=size*1.22,y0=h*.74-(lines.length-1)*lineHeight/2,space=ctx.measureText(' ').width;
+  const starts=cueWordTimes(cue,words);let active=-1;starts.forEach((t,i)=>{if(time>=t)active=i;});const highlighted=highlightWords(cue.text,terms),lineHeight=size*1.22,y0=Math.max(h*.74-(lines.length-1)*lineHeight/2,minTop+size*.66),space=ctx.measureText(' ').width;
   ctx.textAlign='left';ctx.textBaseline='middle';ctx.lineJoin='round';let index=0;
   for(let i=0;i<lines.length;i++){const y=y0+i*lineHeight;let x=w/2-ctx.measureText(lines[i]).width/2;for(const word of lines[i].split(/\s+/)){const ww=ctx.measureText(word).width;
    if(index===active){ctx.fillStyle=BRAND.orange;rounded(ctx,x-14,y-size*.62,ww+28,size*1.24,16);ctx.fillStyle=BRAND.white;ctx.fillText(word,x,y);}
@@ -96,8 +100,10 @@ const SiaFinishing=(()=>{
   const vw=video.videoWidth,vh=video.videoHeight*(1-cropBottomFraction(settings)),scale=Math.max(w/vw,h/vh)*retentionZoom(time),dw=vw*scale,dh=vh*scale;
   // Crop lower source pixels first, preserving its top. Uniform cover scaling adds no bars or stretching.
   ctx.drawImage(video,0,0,vw,vh,(w-dw)*Math.max(0,Math.min(1,settings.focusX??.5)),(h-dh)/2,dw,dh);
-  const insert=broll.find(c=>time>=c.start&&time<c.end);if(insert){if(insert.type==='text-overlay')textOverlay(ctx,insert,time,settings);else if(insert.type==='map')mapCard(ctx,insert,time,images[insert.mapId],settings);else teachingCard(ctx,insert,time);}
-  const cue=cues.find(c=>time>=c.start&&time<c.end);if(cue)drawCaption(ctx,cue,time,terms,words);
+  const insert=broll.find(c=>time>=c.start&&time<c.end);let card=null;if(insert){if(insert.type==='text-overlay')card=textOverlay(ctx,insert,time,settings);else if(insert.type==='map')mapCard(ctx,insert,time,images[insert.mapId],settings);else teachingCard(ctx,insert,time);}
+  if(settings.footer)footerBar(ctx);
+  // Captions move below an active card so the two never overlap.
+  const cue=cues.find(c=>time>=c.start&&time<c.end);if(cue)drawCaption(ctx,cue,time,terms,words,card?card.bottom+24:0,settings.footer?h*.875:h*.97);
   if(logo&&settings.logo!==false&&time>=2){const size=w*.105;ctx.drawImage(logo,w*.08,h*.10,size,size);}
  }
  async function render({job,captions,settings={},onProgress=()=>{},signal}){
@@ -128,5 +134,5 @@ const SiaFinishing=(()=>{
    return {blob:result,metadata:{width:check.videoWidth,height:check.videoHeight,duration,captions,captionSrt:window.ReelTools.toSrt(captions),actualBroll,audioPresent:heardAudio,technicalExpectations:{width:1080,height:1920,fps:30,container:'mp4',videoCodec:'h264',audioCodec:'aac',channels:2},renderSettings:{...settings,cropBottom:cropBottomFraction(settings),fit:'cover',width:1080,height:1920,requestedFps:REQUESTED_CAPTURE_FPS,minimumFps:30,channels:2,videoCodec:'h264',audioCodec:'aac',audioMix:'Approved Sia mono voice duplicated into left and right channels',loudness,captionStyle:'word-by-word karaoke',font:fontLoaded?'Figtree':'fallback sans-serif',broll,highlightTerms:terms,retentionZoomEverySeconds:3,transitionSeconds:.15,paintedFrames:frames,playbackSync:{startup:startupSync,clips:syncStates},renderer:'Browser real-time canvas + original Cartesia audio',mime:recorder.mimeType},notes:'Review the finished file for caption timing, complete speech, visuals and lip-sync before approving.'}};
   }finally{audio?.pause();if(audio){audio.removeAttribute('src');audio.load();}clearTimeout(watchdog);cancelAnimationFrame(tick);if(recorder?.state==='recording')recorder.stop();videos.forEach(v=>{v.pause();v.removeAttribute('src');v.load();});stream?.getTracks().forEach(t=>t.stop());await context?.close().catch(()=>{});urls.forEach(u=>URL.revokeObjectURL(u));signal?.removeEventListener('abort',abort);document.removeEventListener('visibilitychange',visibility);}
  }
- return {render,supportedMime,validateCaptions,validateBroll,captionLines,retentionZoom,stereoAudioGraph,draw,textOverlay,mapCard,cueWordTimes,startPlayback,playbackSyncDecision,BRAND};
+ return {render,supportedMime,validateCaptions,validateBroll,captionLines,retentionZoom,stereoAudioGraph,draw,textOverlay,mapCard,footerBar,cueWordTimes,startPlayback,playbackSyncDecision,BRAND};
 })();
